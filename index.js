@@ -296,12 +296,12 @@ function stopWatch(minutes){
 
 function checkIndex (index){
   if (index === 0){
-    stopWatch(30)
-  }
-  else if(index === 1){
     stopWatch(20)
   }
-  else if (index === 2){
+  else if(index === 1){
     stopWatch(15)
+  }
+  else if (index === 2){
+    stopWatch(10)
   }
 }

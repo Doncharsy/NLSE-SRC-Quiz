@@ -302,6 +302,6 @@ function checkIndex (index){
     stopWatch(20)
   }
   else if (index === 2){
-    stopWatch(1)
+    stopWatch(15)
   }
 }

@@ -39,7 +39,7 @@ const count = document.querySelector('.count')
 count.classList.toggle('hide')
 let countdown = document.querySelector('.countdown')
 const difficulty = document.querySelector('.difficulty')
-enterBtn.disabled = true
+
 
 
 // SHOW THE USERS SELECTED OPTION

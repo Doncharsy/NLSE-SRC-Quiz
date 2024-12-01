@@ -1,0 +1,243 @@
+{"Property Law":[
+  {
+   "id": "1",
+   "question": "The following except one are circumstances warranting the need for a power of attorney:",
+   "options": {
+    "a": "Where the expertise of the donee is required",
+    "b": "Where the donor is unavailable",
+    "c": "Where a mortgage is created by subdemise under the Conveyancing Act",
+    "d": "Where a mortgage is created by subdemise under the PCL ."
+   },
+   "answer": "Where a mortgage is created by subdemise under the PCL .",
+   "reason": "Where a mortgage is created by Sub-demise under PCL states, there is no need to insert any remedial devices like power of attorney or trust Declaration to protect the mortgagee in the event of default by the mortgagor."
+  },
+  {
+   "id": "2",
+   "question": "Exchange of contract gives to the Purchaser one of the following titles:",
+   "options": {
+    "a": "Legal title",
+    "b": "Legal and equitable title",
+    "c": "Equitable title",
+    "d": "Unexpired term of the Vendor ."
+   },
+   "answer": "Equitable title",
+   "reason": "One of the legal effects of Exchange of contract at the contract stage is that the purchaser acquires equitable title in the property. Legal title is still with the vendor. The legal title will only pass when a deed of assignment is executed at the Completion stage."
+  },
+  {
+   "id": "3",
+   "question": "The key feature that distinguishes a deed of lease from other deeds is the presence of:",
+   "options": {
+    "a": "Habendum",
+    "b": "Testatum",
+    "c": "Reddendum",
+    "d": "Testimonium ."
+   },
+   "answer": "Reddendum",
+   "reason": "Reddendum is the rent clause which is only found in a deed of lease."
+  },
+  {
+   "id": "4",
+   "question": "One of the following is not an essential element of a valid lease:",
+   "options": {
+    "a": "Certainty of term",
+    "b": "Certainty of property",
+    "c": "Exclusive possession",
+    "d": "Rent"
+   },
+   "answer": "Rent",
+   "reason": "Rent is not an essential requirement for the validity of a lease. A lease agreement can be valid notwithstanding the fact that the lessee pays no rent."
+  },
+  {
+   "id": "5",
+   "question": "Which of these is not a way of creating an equitable mortgage?",
+   "options": {
+    "a": "Agreement to create a legal mortgage",
+    "b": "Creation of an imperfect legal mortgage",
+    "c": "Creation of mortgage with equitable interest",
+    "d": "Creation of mortgage by sub-demise "
+   },
+   "answer": "Creation of mortgage by sub-demise ",
+   "reason": "Creation of mortgage by sub-demise is a way of creating legal mortgage applicable in all the jurisdictions."
+  },
+  {
+   "id": "6",
+   "question": "Where a mortgagee has two or more mortgages on different properties with the same Mortgagor, the mortgagee may refuse to permit the mortgagor to redeem one without the other(s) through the doctrine of:",
+   "options": {
+    "a": "Atonement",
+    "b": "Togetherness",
+    "c": "Redemption",
+    "d": "Consolidation"
+   },
+   "answer": "Consolidation",
+   "reason": "Consolidation is the right the mortgagee of two or more mortgages on different property with the same mortgagor has to refuse to permit the mortgagor to redeem one without redeeming the others. This clause must be expressely stated and agreed to."
+  },
+  {
+   "id": "7",
+   "question": "In a legal mortgage created by deed, the power to appoint a receiver:",
+   "options": {
+    "a": "Is an implied power",
+    "b": "Must be expressly provided in the deed",
+    "c": "Is subject to approval by the court",
+    "d": "Must be subject to the consent of the Governor."
+   },
+   "answer": "Is an implied power",
+   "reason": "In a legal mortgage, the power to appoint a receiver is implied; it need not be expressly provided in the Deed of legal mortgage. However, in an equitable mortgage, the power of appointment must be expressly stated in the Deed."
+  },
+  {
+   "id": "8",
+   "question": " Legal services such as searches at the Land Registry and the Corporate Affairs Commission can be charged under what scale of the Bill of Charges?",
+   "options": {
+    "a": " Scale IV",
+    "b": "Scale III",
+    "c": "Scale II",
+    "d": "Scale I"
+   },
+   "answer": "Scale III",
+   "reason": "There are limited circumstances where a lawyer may charge under scale I (sales, purchases and mortgages) and scale II (Leases). The circumstances where a lawyer may charge using scale III are not limited, but the transaction must not be a contentious one. Thus searches at the land registry and CAC may be charged under scale III."
+  },
+  {
+   "id": "9",
+   "question": "A will is ambulatory because:",
+   "options": {
+    "a": "It speaks from the death of the testator",
+    "b": "It is revocable at any time before the death of the testator",
+    "c": "It is testamentary",
+    "d": "It distributes the testator’s estate upon his death."
+   },
+   "answer": "It is revocable at any time before the death of the testator",
+   "reason": "To say something is ambulatory means that it only becomes binding after the testator is no longer alive thus a testator can always change or even revoke the will before his death."
+  },
+  {
+   "id": "10",
+   "question": "The authority for the principle that a blind man can make a Will is:",
+   "options": {
+    "a": "Intsiful v Christian",
+    "b": "Johnson v Maja",
+    "c": "Adebajo v Adebajo",
+    "d": "Banks v Goodfellow"
+   },
+   "answer": "Intsiful v Christian",
+   "reason": "John Intsiful v. Henry Charles Christian Kofi Ampah WACA 81994"
+  },
+  {
+   "id": "11",
+   "question": "Which of the following documents is not needed in processing an application for probate by the executors?",
+   "options": {
+    "a": "Inventory form",
+    "b": "Bank certificates",
+    "c": "Oath of executors",
+    "d": "Letter of authority of the family members"
+   },
+   "answer": "Letter of authority of the family members",
+   "reason": "The Will is the letter of authority for the executors to act. There is no requirement of a separate letter of authority by the family of a deceased before the executors can apply for probate."
+  },
+  {
+   "id": "12",
+   "question": "All but one of the following are features of an Assent:",
+   "options": {
+    "a": "It must be by deed",
+    "b": "It is used to transfer title in movable properties of the deceased",
+    "c": "It must be in writing",
+    "d": "B and C"
+   },
+   "answer": "It must be by deed",
+   "reason": "An Assent does not need to be by Deed."
+  },
+  {
+   "id": "13",
+   "question": "The circumstances in which the executors of a deceased estate would be entitled to remuneration do not include:",
+   "options": {
+    "a": "By the consent of the beneficiaries",
+    "b": "By an order of the Court",
+    "c": "The rule in Cradock v Piper",
+    "d": "Express provision in the Will"
+   },
+   "answer": "By the consent of the beneficiaries",
+   "reason": "The Beneficiaries consenting to remunerate the executor is not binding. There has to be an express provision, or an order of court or follow the rule in Cradock v Piper 1850"
+  },
+  {
+   "id": "14",
+   "question": "NOW THIS DEED WITNESSES AS FOLLOWS is the usual beginning of what part of a deed?",
+   "options": {
+    "a": "Introductory part",
+    "b": "Operative part",
+    "c": "Miscellaneous",
+    "d": "Testatum"
+   },
+   "answer": "Operative part",
+   "reason": "Testatum is not a part of a deed. There are four parts of a deed:introductory, operative,miscellaneous and concluding parts. Testatum is Under the operative part."
+  },
+  {
+   "id": "15",
+   "question": "The Power of Attorney granted to a person to “let premises to tenants and collect rent” is?",
+   "options": {
+    "a": "General Power of Attorney",
+    "b": "Specific Power of Attorney",
+    "c": "Revocable Power of Attorney",
+    "d": "Irrevocable Power of Attorney"
+   },
+   "answer": "Specific Power of Attorney",
+   "reason": "A power donated is to complete specific things thus, its a specific POA"
+  },
+  {
+   "id": "16",
+   "question": "The stages of contract of sale of land in Nigeria do not include:",
+   "options": {
+    "a": "Pre-contract stage",
+    "b": "Post contract stage",
+    "c": "Pre-completion",
+    "d": "None of the above"
+   },
+   "answer": "Pre-completion",
+   "reason": "They are five stages of a contract of sale. Pre-Contract, Contract, Post-Contract, Completion and Post-Completion stage"
+  },
+  {
+   "id": "17",
+   "question": "The factors to be considered when fixing rent do not include:",
+   "options": {
+    "a": "Location of the property",
+    "b": "Applicable legislation",
+    "c": "Economic status of the tenant",
+    "d": "State and condition of the property"
+   },
+   "answer": "Economic status of the tenant",
+   "reason": "The economic status of the tenant is usually immaterial when considering the amount to charge as rent on a property."
+  },
+  {
+   "id": "18",
+   "question": "The apex mortgage institution in Nigeria is?",
+   "options": {
+    "a": "Central Bank of Nigeria",
+    "b": "Federal Mortgage Bank",
+    "c": "Federal Government Bank of Nigeria",
+    "d": "Commercial Banks"
+   },
+   "answer": "Federal Mortgage Bank",
+   "reason": "The Federal Mortgage Bank of Nigeria is the apex mortgage institution in Nigeria because it regulates and supervises the mortgage industry."
+  },
+  {
+   "id": "19",
+   "question": "A solicitor acting for both the lessor and lessee in a lease transaction shall be entitled to his professional fee as follows:",
+   "options": {
+    "a": "Full payment from the lessee and half payment from the lessor",
+    "b": "Full payment from the lessor and half of the lessees fee",
+    "c": " Full payment from the lessor and quarter of lessors fee from the lessee",
+    "d": "B and C"
+   },
+   "answer": "B and C",
+   "reason": "In leases, the lessors solicitor is entitled to the full charges as computed according to the scale, while the lessees solicitor is entitled to half of what the lessors solicitor is entitled to. Where a solicitor acts for both parties, he will be entitled to full charges from the lessor plus half of what is due to the lessees solicitor or quarter of lessors fee."
+  },
+  {
+   "id": "20",
+   "question": "The legal age approved under the Wills Act for a person to make a Will is?",
+   "options": {
+    "a": "17 years",
+    "b": "20 years",
+    "c": "18 years",
+    "d": "21 years"
+   },
+   "answer": "21 years",
+   "reason": "Sec.24 Wills Act"
+  }
+ ]
+ }

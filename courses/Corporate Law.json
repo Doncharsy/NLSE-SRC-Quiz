@@ -1,0 +1,243 @@
+{"Corporate Law":[
+  {
+   "id": "1",
+   "question": "The Governing Board of the Corporate Affairs Commission (“CAC”) comprises how many members?",
+   "options": {
+    "a": "10",
+    "b": "12",
+    "c": "13",
+    "d": "15"
+   },
+   "answer": "12",
+   "reason": "The governing board of CAC comprises 12 members. See Section 2 of CAMA 2020."
+  },
+  {
+   "id": "2",
+   "question": "The quorum for the meeting of the Board of the Corporate Affairs Commission is?",
+   "options": {
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "7"
+   },
+   "answer": "5",
+   "reason": "The quorum for the meeting of the governing board of CAC is 5. See Section 6(3) CAMA 2020."
+  },
+  {
+   "id": "3",
+   "question": "The following are the types of business organizations recognised by the Companies and Allied Matters Act except",
+   "options": {
+    "a": "Company Limited by Guarantee",
+    "b": "Sole Proprietorship",
+    "c": "Incorporated Trustees",
+    "d": "Partnership"
+   },
+   "answer": "Incorporated Trustees",
+   "reason": "While the concept of incorporated Trustees are recognised by CAMA 2020, you should note that a key feature of Incorporated Trustees is that they are not allowed to engage in business. This is a key difference between it and company limited by guarantee as the later is allowed to do business but cannot distribute the profit to members"
+  },
+  {
+   "id": "4",
+   "question": "The form for application for registration of the company is:",
+   "options": {
+    "a": "Form CAC 1",
+    "b": "Form CAC 1.1",
+    "c": "Form CAC 1A",
+    "d": "Form CAC 2.1"
+   },
+   "answer": "Form CAC 1.1",
+   "reason": "The form used for the registration of a company is Form CAC 1.1 headed “Application to Register a Company”."
+  },
+  {
+   "id": "5",
+   "question": "The Attorney General is required to grant approval within how many days where there are no objections for a company limited by guarantee",
+   "options": {
+    "a": "30 days",
+    "b": "One month",
+    "c": "21 days",
+    "d": "28 days"
+   },
+   "answer": "30 days",
+   "reason": "The Attorney General of the Federation shall, within 30 days, grant authority to register a company limited by guarantee where there are no objections or any other cogent reason to refuse the grant. See Section 26(5) of CAMA."
+  },
+  {
+   "id": "6",
+   "question": "The minimum number of trustees that may apply for registration under Part F of CAMA is:",
+   "options": {
+    "a": "4",
+    "b": "2",
+    "c": "1",
+    "d": "5"
+   },
+   "answer": "2",
+   "reason": "The minimum number of trustees that can be registered under part F is 2. See Section 823(1) of CAMA."
+  },
+  {
+   "id": "7",
+   "question": "The CAC form to fill when filing the annual returns of a business name is:",
+   "options": {
+    "a": "CAC 6",
+    "b": "CAC/BN/6",
+    "c": "CAC/BN/7",
+    "d": "CAC 7"
+   },
+   "answer": "CAC/BN/6",
+   "reason": "CAC/BN/6 is headed “Annual Return of Business Names"
+  },
+  {
+   "id": "8",
+   "question": "Who can bring an application for the dissolution of Heroes for Nigeria (An Incorporated Trustee)?",
+   "options": {
+    "a": "The governing Body or Council",
+    "b": "One or more Trustees",
+    "c": "Members of the association constituting not less than 50% of the total membership",
+    "d": "All of the above"
+   },
+   "answer": "All of the above",
+   "reason": "Section 850 of CAMA."
+  },
+  {
+   "id": "9",
+   "question": "The Stamp Duty payable on the Memorandum and Articles of Association of a company is?",
+   "options": {
+    "a": " Ad valorem",
+    "b": "Fixed",
+    "c": "40%",
+    "d": "No stamp duties is paid"
+   },
+   "answer": "Fixed",
+   "reason": "The stamp duty payable on the MEMOART is fixed, while that of the statement of minimum share capital (now CAC 1.1) is ad valorem."
+  },
+  {
+   "id": "10",
+   "question": "Which of the following is not required to have a special clause?",
+   "options": {
+    "a": "Company limited by shares",
+    "b": "Company limited by guarantee",
+    "c": "Incorporated Trustee",
+    "d": "None of the above"
+   },
+   "answer": "Company limited by shares",
+   "reason": "A company limited by guarantee and an Incorporated Trustee are required to have a special clause in their MEMART/Constitution respectively. The special clause is to the effect that the income and property of the company or association will be applied solely towards the object, and no part of it shall be distributable to members, even if the company or association winds up."
+  },
+  {
+   "id": "11",
+   "question": "There can be more than one promoter to a company",
+   "options": {
+    "a": "True",
+    "b": "False",
+    "c": "The minimum is 2",
+    "d": "The maximum is 2"
+   },
+   "answer": "True",
+   "reason": "All subscribers to a memorandum are regarded as promoters. The law does not provide for any minimum nor maximum. see section 85 CAMA 2020"
+  },
+  {
+   "id": "12",
+   "question": "One of the following upheld the CAMA provision that a pre incorporation contract may be ratified by the company upon incorporation.",
+   "options": {
+    "a": "Kelner v Baxter",
+    "b": "Societe Generale Bank v Societe Generale Favouriser",
+    "c": "Leopold Borrne v Sensolid",
+    "d": "Societe Generale Bank v Sem Edowire"
+   },
+   "answer": "Societe Generale Bank v Societe Generale Favouriser",
+   "reason": "Kelner v. Baxter is the authority on the common law principle that pre-incorporation contract are not valid. section 96(2) CAMA 2020 changes this provison and Societe Generale Bank is the new position on this"
+  },
+  {
+   "id": "13",
+   "question": "The saying `an exempted company has the status of unregistered company` means none but one of the following:",
+   "options": {
+    "a": "An exempted company is exempted from payment of company taxes",
+    "b": "An exempted company is exempted from filing annual reports",
+    "c": "An exempted company cannot sue or be sued in Nigeria",
+    "d": "An exempted company is exempted from holding General meetings"
+   },
+   "answer": "An exempted company is exempted from payment of company taxes",
+   "reason": "When we say an exempted company has the status of an unregistered company, it means that, among others, the company is exempted from the payment of taxes in Nigeria."
+  },
+  {
+   "id": "14",
+   "question": "An incentive that allows you get back import duties paid is:",
+   "options": {
+    "a": "Duty draw back",
+    "b": "Duty repatriation",
+    "c": "Pioneer status",
+    "d": "Duty reservation"
+   },
+   "answer": "Duty draw back",
+   "reason": "Duty drawback scheme is the tax incentive that allows importers of materials used in the manufacture of exported goods may claim repayment of import duties earlier paid in respect of the materials. The application for duty drawback must be made within a maximum of two years from the date of exportation."
+  },
+  {
+   "id": "15",
+   "question": "The maximum accumulated tax holiday available to an industry with pioneer status in Nigeria is:",
+   "options": {
+    "a": "5 years",
+    "b": "3 years",
+    "c": "7 years",
+    "d": "4 years"
+   },
+   "answer": "5 years",
+   "reason": "Pioner Status grants one tax holiday for three years with a further possible extension for 2 extra years thus making it 5 years in total"
+  },
+  {
+   "id": "16",
+   "question": "CERPAC means:",
+   "options": {
+    "a": "Combined Expatriate Registration Permit Authorised Card",
+    "b": "Combined Expatriate Residence Permit and Aliens Credit",
+    "c": "Combined Expatriate Residence Permit and Allowance Card.",
+    "d": "Combined Expatriate Residence Permit and Aliens Card."
+   },
+   "answer": "Combined Expatriate Residence Permit and Aliens Card.",
+   "reason": "CERPAC stands for Combined Expatriate Residence Permit and Aliens Card. The card is also referred to as green card."
+  },
+  {
+   "id": "17",
+   "question": "The procedure for change of name is contained in what section of CAMA?",
+   "options": {
+    "a": "Section 30",
+    "b": "Section 31",
+    "c": "Section 29",
+    "d": "Section 32"
+   },
+   "answer": "Section 30",
+   "reason": "The procedure for a change of a company name is contained in Section 30 of CAMA 2020."
+  },
+  {
+   "id": "18",
+   "question": "The theory of good corporate governance which posits that the company has more than the interest of its owners and employees at stake, but also that of the General public is:",
+   "options": {
+    "a": "The German Model Theory",
+    "b": "The Agency Theory",
+    "c": "The Stewardship Theory",
+    "d": "The Stakeholder Theory"
+   },
+   "answer": "The Stakeholder Theory",
+   "reason": "The stakeholder theory of corporate governance considers the public interest among other things because it views the public as necessary stakeholder in corporate actions."
+  },
+  {
+   "id": "19",
+   "question": "The decision of the Board of Directors is usually",
+   "options": {
+    "a": "Unanimous resolution",
+    "b": "Special resolution",
+    "c": "Ordinary resolution",
+    "d": "General resolution"
+   },
+   "answer": "Unanimous resolution",
+   "reason": "The decision of the board of directors is taken to be a unanimous resolution."
+  },
+  {
+   "id": "20",
+   "question": "Failure to file annual returns for a consecutive period of __________ is a ground for striking the name of a company off the companies register:",
+   "options": {
+    "a": "10 years",
+    "b": "7 years",
+    "c": "8 years",
+    "d": "12 years"
+   },
+   "answer": "10 years",
+   "reason": "Failure to file annual returns for a consecutive period of 10 years is a ground for striking the name of a company off the companies register. See Section 425 (3) of CAMA."
+  }
+]
+ }

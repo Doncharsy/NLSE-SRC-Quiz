@@ -1,0 +1,243 @@
+
+  {"Civil Litigation":[
+    {
+   "id": "1",
+   "question": "The total number of Justices of the Court of Appeal is:",
+   "options": {
+    "a": "90",
+    "b": "49",
+    "c": "50",
+    "d": "60"
+   },
+   "answer": "90",
+   "reason": "Section 237(2)(b) CFRN provides for not less than 49 Justices. However, it may be increased by an Act of the National Assembly. Thus, section 2 of the Court of Appeal Act 2013 provides for a total of 90 Justices"
+  },
+    {
+   "id": "2",
+   "question": "The Constitutional composition of the Supreme Court is:",
+   "options": {
+    "a": "The CJN and such number of Justices as may be determined by the NJC",
+    "b": "The CJN and such number of Justices as may be determined by the President",
+    "c": "The CJN and such number of Justices not less than 21",
+    "d": "The CJN and such number of Justices not exceeding 21"
+   },
+   "answer": "The CJN and such number of Justices not exceeding 21",
+   "reason": "Section 230(2)(a)(b) CFRN provides for The CJN and such number of Justices not exceeding 21."
+  },
+    {
+   "id": "3",
+   "question": "The monetary jurisdiction of the Small Claims Court in terms of a counter-claim is the maximum amount of:",
+   "options": {
+    "a": "₦10,000,000",
+    "b": "₦5,000,000",
+    "c": "₦8,000,000",
+    "d": "₦7,000,000"
+   },
+   "answer": "₦10,000,000",
+   "reason": "The monetary jurisdiction of the Small Claims Court in terms of a counter-claim is the maximum amount of #10,000,000"
+  },
+    {
+   "id": "4",
+   "question": "Alteration or change of parties is necessary in all the following instances except:",
+   "options": {
+    "a": "Bankruptcy",
+    "b": "Devolution of interest",
+    "c": "Death",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "Alteration or substitution of name of parties is usually in cases of death and bankruptcy. order 13 rule 30 High Court civi procedure Rules Abuja 2018"
+  },
+    {
+   "id": "5",
+   "question": "The mode of applying for leave to bring a representative action is:",
+   "options": {
+    "a": "Originating application",
+    "b": "Motion ex parte",
+    "c": "Motion on notice",
+    "d": "Writ of summons"
+   },
+   "answer": "Motion ex parte",
+   "reason": "This is actually a matter of practice. The 2004 rules expressly stated that it should be by motion ex parte but such provision was omitted in the current rules. Failure to seek leave to file such will not invalidate the suit"
+  },
+    {
+   "id": "6",
+   "question": "Where there is a failure to join a party who ought to be joined in a proceeding before the Court, the effect is that:",
+   "options": {
+    "a": "The case will be dismissed",
+    "b": "A procedural irregularity which won't lead to striking out the case",
+    "c": "The case will be struck out",
+    "d": "The case will be declared non-suit"
+   },
+   "answer": "A procedural irregularity which won't lead to striking out the case",
+   "reason": "see Order 15 rule 16(1) Lagos and Order 13 rule 16(1) Abuja"
+  },
+    {
+   "id": "7",
+   "question": "Under the Magistrate Court Law of Lagos 2009, the following grades of Magistrate Courts exist in Lagos",
+   "options": {
+    "a": "None; section 92, MCL ",
+    "b": "Five; section 93, MCL",
+    "c": "None; section 93, MCL",
+    "d": "Five; section 92, MCL"
+   },
+   "answer": "None; section 93, MCL",
+   "reason": "By virtue of section 93 of the Magistrate`s law of Lagos state 2009, there are no more grades of magistrate`s"
+  },
+    {
+   "id": "8",
+   "question": "Assuming judgment was given against the claimant in an Interlocutory matter and he wishes to appeal, within how many days after delivery of judgment must it be done?",
+   "options": {
+    "a": "7 days",
+    "b": "10 days",
+    "c": "15 days",
+    "d": "14 days"
+   },
+   "answer": "14 days",
+   "reason": "Article 14(1) of the Practice Direction of SCC."
+  },
+    {
+   "id": "9",
+   "question": "Service of originating process can be done by any but one of the following:",
+   "options": {
+    "a": "Bailiff",
+    "b": "Sheriff",
+    "c": "Special Marshal",
+    "d": "Chief Registrar"
+   },
+   "answer": "Chief Registrar",
+   "reason": "Order 7 rule 1 Abuja Rules 2018 provides that: service of an originating process shall be made by a sheriff, Deputy sheriff, Bailiff, Special Marshal or other officer of the court"
+  },
+    {
+   "id": "10",
+   "question": "The appropraite way of presenting facts to the court in an action commenced by originating summon is?",
+   "options": {
+    "a": "Statement of claim",
+    "b": "Documentary evidence",
+    "c": "Affidavit evidence",
+    "d": "Written Application"
+   },
+   "answer": "Affidavit evidence",
+   "reason": "Where an action is commenced by originating summons, the facts are presented by affidavit evidence, unlike statement of claim, where an action is commenced by writ of summons. Order 2, Rule 3(5), Abuja."
+  },
+    {
+   "id": "11",
+   "question": "Where no rules/laws are cited in a motion, the Court can still grant the motion if:",
+   "options": {
+    "a": "It was filed within a reasonable time",
+    "b": "There is a rule/law that empowers the court to grant it",
+    "c": "The other lawyer has no opposition",
+    "d": "It is a motion Exparte"
+   },
+   "answer": "There is a rule/law that empowers the court to grant it",
+   "reason": "As long as there exist a law/rule that actually empowers the court to grant that prayer, then even if a false law was used, it will not invalidate and would be regarded as a mere irregularity"
+  },
+    {
+   "id": "12",
+   "question": "A motion Exparte generally terminates after?",
+   "options": {
+    "a": "12 days",
+    "b": "7 days",
+    "c": "Pending the determination of the suit",
+    "d": "10 days"
+   },
+   "answer": "7 days",
+   "reason": "A motion ex parte is used for urgent matters and is accompanied by a motion on notice in injunctions"
+  },
+    {
+   "id": "13",
+   "question": "How is an interpleader application commenced in Abuja?",
+   "options": {
+    "a": "Summons",
+    "b": "Motion",
+    "c": "All of the above",
+    "d": "None of the above"
+   },
+   "answer": "Summons",
+   "reason": "Order 48 rule 5 Abuja Rules 2018 says that the applicant will use a summon."
+  },
+    {
+   "id": "14",
+   "question": "When a suit on the undefended list comes to the court for the first time, it is for:",
+   "options": {
+    "a": "Mention",
+    "b": "Hearing",
+    "c": "Motion",
+    "d": "Adjoument"
+   },
+   "answer": "Hearing",
+   "reason": "When a suit on the undefended list comes to the court for the first time, it is for hearing. Order 35 Abuja rules 2018"
+  },
+    {
+   "id": "15",
+   "question": "Assuming at the trial of a case, if the only witness of the claimant has refused to attend court to tender a document that is vital to the case, the witness’ attendance can be compelled by:",
+   "options": {
+    "a": "Subpoena duces tecum",
+    "b": "Subpoena ad testificandum",
+    "c": "Subpoena ad testificandum et duces tecum",
+    "d": "All of the above"
+   },
+   "answer": "Subpoena duces tecum",
+   "reason": "Since the witness is coming to Court to tender a document, subpoena duces tecum is what is appropriate."
+  },
+  {
+   "id": "16",
+   "question": "Which of the following is true of the evidence of a child who has not attained the age of 14 years?",
+   "options": {
+    "a": "The child can only give an unsworn evidence",
+    "b": "The child can give both sworn and unsworn evidence",
+    "c": "The child can only give sworn evidence",
+    "d": "The child is capable of giving sworn evidence but can decide not to on ground of religion"
+   },
+   "answer": "The child can only give an unsworn evidence",
+   "reason": "see Section 209(1), Evidence Act"
+  },
+    {
+   "id": "17",
+   "question": "which of the following is not a public document?",
+   "options": {
+    "a": "Primary school leaving certificate",
+    "b": "Certificate of title issued by the land Registry",
+    "c": "Call to Bar certificate",
+    "d": "Unregistered deed of assignment"
+   },
+   "answer": "Unregistered deed of assignment",
+   "reason": "section 102 of the Evidence Act provides for what constitutes public documents"
+  },
+    {
+   "id": "18",
+   "question": "A hostile witness is one who?",
+   "options": {
+    "a": "has refused to speak in court",
+    "b": "has been a witness for the adverse party before in another case",
+    "c": "has refused to speak the truth",
+    "d": "has said things detrimental to your case"
+   },
+   "answer": "has refused to speak the truth",
+   "reason": "A hostile witness is defined as one who has refused to tell the truth. see Esan v. State"
+  },
+    {
+   "id": "19",
+   "question": "A written address must be filed within how many days of close of evidence",
+   "options": {
+    "a": "25 days",
+    "b": "14 days",
+    "c": "21 days",
+    "d": "30 days"
+   },
+   "answer": "21 days",
+   "reason": "see Order 33 Rule 13 Lagos, Order 32 Rule 14 Abuja."
+  },
+    {
+   "id": "20",
+   "question": "How many days must judgment be delivered in an Election petition",
+   "options": {
+    "a": "90 days",
+    "b": "60 days",
+    "c": "180 days",
+    "d": "30 days"
+   },
+   "answer": "180 days",
+   "reason": "see. Section 285(6) CFRN, ANPP v. Goni"
+  }
+  ]}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Practice MCQ</title>
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+  crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+ <link rel="stylesheet" href="index.css">
+ <link rel="shortcut icon" href="./assets/SRC LOGO TRANSPARENT.png" type="image/x-icon">
+</head>
+<body>
+ <div class="quiz-container">
+  <header>
+   <div class="logo"><a href="#" class="logo-span">
+    <span class="span-M">M</span>
+    <span class="span-C">C</span>
+    <span class="span-Q">Q</span>
+   </a></div>
+   <div class="middle-header">
+    <p class="message"></p>
+   </div>
+   <div class="left-header">
+    <div class="more-page">
+    </div>
+    <div class="toggle">
+     <span><i class="fas fa-sun"></i></span>
+     <span><i class="fas fa-moon"></i></span>
+     <div class="toggle-ball"></div>
+    </div>
+    <div class="mode">
+     <select class="difficulty" name="options" id="options">
+      <option class="option" value="easy">Easy</option>
+      <option value="medium">Medium</option>
+      <option value="hard">Hard</option>
+     </select>
+    </div>
+    <div class="count">
+     <span class="countdown"></span>
+    </div>
+   </div>
+  </header>
+  <main>
+   <section>
+    <div class="start-message">
+     <h1>Welcome to the SRC Enugu State Campus Quiz!</h1>
+     <p>Pick a course to get Started</p>
+     <img class="src-logo" src="./assets/SRC LOGO TRANSPARENT.png" alt="src-logo">
+    </div>
+    <aside>
+     <div class="sidebar-top">
+      <h2>Courses</h2>
+     </div>
+     <ul class="side-bar-links">
+      <li class="course-link"><a href="#">Civil Litigation</a></li>
+      <li  class="course-link"><a href="#">Corporate Law</a></li>
+      <li class="course-link"><a href="#">Criminal Litigation</a></li>
+      <li class="course-link"><a href="#">Professional Ethics</a></li>
+      <li class="course-link"><a href="#">Property Law</a></li>
+      </ul>
+     </ul>
+    </aside>
+   </section>
+  </main>
+  <section class="quiz">
+   <div class="quiz-heading">
+    <div class="quiz-score">Score : <span class="score">0</span></div>
+    <div class="quiz-course"><span class="course"></span></div>
+    <a href="#" class="exit">exit</a>
+   </div>
+   <div class="quiz-body">
+    <div class="question">
+     <h2>Question <span class="question-number"></span></h2>
+     <p class="text"></p>
+    </div>
+    <div class="options">
+     <form action="">
+      <div class="option-a">
+       <input type="radio" name="question-1" id="option-a" value="">
+       <label for="option-a" class="display-option-a"><span class="options-span a"></span></label>
+      </div>
+      <div class="option-b">
+       <input type="radio" name="question-1" id="option-b" value="">
+       <label for="option-b" class="display-option-b"><span class="options-span b"></span></label>
+      </div>
+      <div class="option-c">
+       <input type="radio" name="question-1" id="option-c" value="">
+       <label for="option-c" class="display-option-c"><span class="options-span c"></span></label>
+      </div>
+      <div class="option-d">
+       <input type="radio" name="question-1" id="option-d" value="">
+       <label for="option-d" class="display-option-d"><span class="options-span d"></span></label>
+      </div>
+      <input type="text" class="correct-answer" value="" style="display: none;"></input>
+      <button class="enter">Submit</button>
+     </form>
+    </div>
+   </div>
+  </section>
+  <section class="card">
+   <div class="card-top">
+    <span class="show-answer-status"></span>
+    <div class="question-left"></div>
+   </div>
+   <div>
+    <p class="my-answer"></p>
+   </div>
+   <div class="reason-for-answer">
+    <p class="ans-paragraph"></p>
+    <button class="next">next</button>
+   </div>
+  </section>
+  <footer>
+   <p>Courtesy of Philip Nwosu's Led SRC Executive 2024/2025 Backlog Set.</p>
+   <p class="recog">Developed by <a class="footer-highlight" target="_blank" href="https://ochasi-darlington.vercel.app/">Doncharsy_San</a></p>
+  </footer>
+ </div>
+ <script type="module" src="./index.js"></script>
+</body>
+</html>

@@ -1,0 +1,242 @@
+{"Criminal Litigation":[
+  {
+   "id": "1",
+   "question": "All the following are classified as courts of general criminal jurisdiction except:",
+   "options": {
+    "a": "State High Court",
+    "b": "Federal High Court",
+    "c": "Magistrate Court",
+    "d": "Customary Court"
+   },
+   "answer": "Federal High Court",
+   "reason": "The Federal High Court is classified as a court of special criminal jurisdiction. Others include the court martial, juvenile court."
+  },
+  {
+   "id": "2",
+   "question": "At the end of proceedings that day, the Judge said: “The Court will now___”",
+   "options": {
+    "a": "Stand",
+    "b": "Close",
+    "c": "Rise",
+    "d": "Arise"
+   },
+   "answer": "Rise",
+   "reason": "Rise is the proper word used."
+  },
+  {
+   "id": "3",
+   "question": "The appropriate procedure to compel the attendance of a person to answer to a misdemeanor in Court:",
+   "options": {
+    "a": "Warrant",
+    "b": "Arrest",
+    "c": "Summons",
+    "d": "Writ"
+   },
+   "answer": "Summons",
+   "reason": "Misdemeanor is a simple offence, and summons is usually used for simple offences. One key difference between a summons and a warrant of arrest is that the former is directed to the suspect, while the latter is directed to a third party, usually the police."
+  },
+  {
+   "id": "4",
+   "question": "The following except one are circumstances where a warrant of arrest may be used:",
+   "options": {
+    "a": "Where the law provides that an offender may be arrested without a warrant",
+    "b": "Where summons has been disobeyed",
+    "c": "Where the law provides that an offender shall not be arrested without a warrant",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "The circumstances where a warrant of arrest is used includes where a law provides that an offender may be arrested without a warrant, where a law provides that an offender shall not be arrested without a warrant and where summons has been disobeyed."
+  },
+  {
+   "id": "5",
+   "question": "A male cannot search a female but a female can search a male",
+   "options": {
+    "a": "True",
+    "b": "False",
+    "c": "All of the above",
+    "d": "None of the above"
+   },
+   "answer": "False",
+   "reason": "The current position of the various Administration of criminal justice Laws is that a person can only be searched by member of the same gender"
+  },
+  {
+   "id": "6",
+   "question": "All but one of the following are constitutional rights of a suspect at the police station:",
+   "options": {
+    "a": "Right to a fair trial",
+    "b": "Right to remain silent",
+    "c": "Right to presumption of innocence",
+    "d": "Right to dignity of his human person"
+   },
+   "answer": "Right to a fair trial",
+   "reason": "Trial is not conducted by the police but by the Court. So, right to a fair trial is available to an accused when he is tried by a court or tribunal."
+  },
+  {
+   "id": "7",
+   "question": "The following are conditions to be fulfilled before a confessional statement will generally be held admissible, except:",
+   "options": {
+    "a": "It must be voluntary",
+    "b": "It must be made in writing",
+    "c": "It must relate to admission of guilt by the accused",
+    "d": "None of the above"
+   },
+   "answer": "It must be made in writing",
+   "reason": "It is not a condition precedent that a confessional statement must be made in writing before it can be admissible. In Arogundade v State, the written confessional statement made by the accused was discarded while the oral one was used to uphold his conviction. See Sec. 15(5) ACJA."
+  },
+  {
+   "id": "8",
+   "question": "______ is where the list of all exhibits in the custody of the police in a particular station or division is recorded",
+   "options": {
+    "a": "Exhibit register",
+    "b": "Exhibit book",
+    "c": "Exhibit file",
+    "d": "Exhibit diary"
+   },
+   "answer": "Exhibit register",
+   "reason": "Exhibit record of all exhibits in a particular division are kept."
+  },
+  {
+   "id": "9",
+   "question": "Under the Magistrates Court Law of Lagos 2009, how many grades of Magistrate Courts exist in Lagos?",
+   "options": {
+    "a": "None; section 92, MCL",
+    "b": "None; section 93, MCL",
+    "c": "Five; section 93, MCL",
+    "d": "Five; section 92, MCL"
+   },
+   "answer": "None; section 93, MCL",
+   "reason": "By virtue of section 93 of the Magistrate`s law of Lagos state 2009, there are no more grades of magistrate`s"
+  },
+  {
+   "id": "10",
+   "question": "Which of these Courts does not have original criminal jurisdiction?",
+   "options": {
+    "a": "Court of Appeal",
+    "b": "High Court",
+    "c": "Upper Area Court",
+    "d": "None of the above"
+   },
+   "answer": "Court of Appeal",
+   "reason": " The Court of Appeal and the Supreme Court do not have original criminal jurisdiction. This means they cannot sit as the Court of first instance in any criminal case. Section 239(1) CFRN"
+  },
+  {
+   "id": "11",
+   "question": "The member of a Court Martial who must be a qualified legal practitioner is the",
+   "options": {
+    "a": "President",
+    "b": "Liaison Officer",
+    "c": "Judge Advocate",
+    "d": "Waiting member"
+   },
+   "answer": "Judge Advocate",
+   "reason": "See Section 133 (6)AFA"
+  },
+  {
+   "id": "12",
+   "question": "The ICC has jurisdiction to try the following offences except:",
+   "options": {
+    "a": "War crimes",
+    "b": "Crimes against humanity",
+    "c": "Kidnapping",
+    "d": "Aggression"
+   },
+   "answer": "Kidnapping",
+   "reason": "Kidnapping is not one of the offences that can be tried by ICC. At the close of the prosecution's case in the case of COP v Maja Simons before a Magistrate sitting in Igbosere, Lagos, the defendant opened his case and relied on the defence of mistake in the charge of being in possession of a stolen property. Immediately the defendant closed his defence, the prosecution fearing that he has clearly proved nothing, announced in open court that it has decided to withdraw the case. The Magistrate allowed it."
+  },
+  {
+   "id": "13",
+   "question": "The effect of the withdrawal by the prosecution is one of the following:",
+   "options": {
+    "a": "It amounts to a discharge of the defendant",
+    "b": "It amounts to an acquittal of the defendant",
+    "c": "The defendant can be tried for the same offence upon fresh evidence being discovered",
+    "d": "None of the above"
+   },
+   "answer": "It amounts to an acquittal of the defendant",
+   "reason": " Withdrawal by the prosecution, after close of defence by the accused, amounts to an acquittal."
+  },
+  {
+   "id": "14",
+   "question": "The charge in Magistrate court of Kano State is prepared by",
+   "options": {
+    "a": "The Magistrate",
+    "b": "The Police",
+    "c": "The State Counsel",
+    "d": "Any of the above"
+   },
+   "answer": "The Magistrate",
+   "reason": "Magistrates are responsible for preparing charges in the Magistrate Court in the North."
+  },
+  {
+   "id": "15",
+   "question": "In which of the following jurisdictions is consent to prefer a charge or file an information no longer needed?",
+   "options": {
+    "a": "Lagos",
+    "b": "Abuja ",
+    "c": "Ogun",
+    "d": "A and B"
+   },
+   "answer": "A and B",
+   "reason": "In Lagos and Abuja (ACJA and AJJL), consent to file an information is no longer applicable. Thus, the AG or other prosecutorial authority can institute an action against the accused without seeking any consent."
+  },
+  {
+   "id": "16",
+   "question": "The rule of drafting charges which admits of no exception is:",
+   "options": {
+    "a": "Rule against ambiguity",
+    "b": "Rule against duplicity",
+    "c": "Rule against misjoinder of offenders",
+    "d": "Rule against misjoinder of offences"
+   },
+   "answer": "Rule against ambiguity",
+   "reason": "The rule against ambiguity is absolute and does not admit any exception."
+  },
+  {
+   "id": "17",
+   "question": "Statutory forms is not an exception to the following rules except",
+   "options": {
+    "a": "Rule against ambiguity",
+    "b": "Rule against duplicity",
+    "c": "Rule against misjoinder of offenders",
+    "d": "Rule against misjoinder of offences"
+   },
+   "answer": "Rule against duplicity",
+   "reason": "Willie John v The State where the Supreme Court justified the use of Form 16 of the Schedule to CPA to charge for housebreaking and stealing in one count."
+  },
+  {
+   "id": "18",
+   "question": "What is the maximum or total life span of a remand order under ACJA?",
+   "options": {
+    "a": "56 days",
+    "b": "48 days",
+    "c": "30 days",
+    "d": "50 days"
+   },
+   "answer": "56 days",
+   "reason": "A remand order under Acja is for 14 days at first instance, then extendable for another 14 days with good cause and two extra 14 days before the person would be released on bail. 14 days into four is 56 days"
+  },
+  {
+   "id": "19",
+   "question": "The constitutional right of an accused to an interpreter is contained in______ of the Constitution?",
+   "options": {
+    "a": "Section 36(5)",
+    "b": "Section 36(6)(e)",
+    "c": "Section 36(4)",
+    "d": "Section 36(6)(d)"
+   },
+   "answer": "Section 36(6)(e)",
+   "reason": "Section 36(6)(e) of the 1999 CRFN provides for the right to have an interpreter when the defendant doesn't understand the language of the court (English)"
+  },
+  {
+   "id": "20",
+   "question": "The power to grant pardon can be exercised by:",
+   "options": {
+    "a": "The Attorney General of the Federation/State",
+    "b": "The Chief Justice of Nigeria",
+    "c": "The President/Governor",
+    "d": "None of the above"
+   },
+   "answer": "The President/Governor",
+   "reason": "The power to grant a pardon can only be exercised by the President or the Governor. Section 175 and 212 of the 1999 Constitution."
+  }
+  ]}

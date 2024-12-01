@@ -1,0 +1,242 @@
+ {"Professional Ethics":[
+    {
+   "id": "1",
+   "question": "One of the following is not a necessary condition to be fulfilled by aspirants to the Nigerian Bar",
+   "options": {
+    "a": "Success at Law School Portfolio Assessment",
+    "b": "Nigerian Citizenship",
+    "c": "Good Conduct",
+    "d": "Success at Bar Part II Examinations "
+   },
+   "answer": "Nigerian Citizenship",
+   "reason": "Decree No.9 of 1922 allows for non-Nigerians to be called to the Nigerian Bar"
+  },
+    {
+   "id": "2",
+   "question": "All of the following are correct about the processing fee required of applicants for the rank of Senior Advocate of Nigeria except:",
+   "options": {
+    "a": "The sum is ₦600,000",
+    "b": "It is non-refundable",
+    "c": "The sum is ₦200,000",
+    "d": "None of the above"
+   },
+   "answer": "The sum is ₦600,000",
+   "reason": "Every Applicant for the rank of SAN shall pay a non-refundable processing fee in the sum of ₦600,000 or such amount as may be fixed by the LPPC. Section 9(3) of the Guidelines for the Conferment of the Rank of SAN 2018."
+  },
+    {
+   "id": "3",
+   "question": "A lawyer who is in active legal practice is prohibited from being:",
+   "options": {
+    "a": "The Managing Director of a company",
+    "b": "A shareholder of a company",
+    "c": "The Chairman of a company",
+    "d": "A non-executive director of a company"
+   },
+   "answer": "The Managing Director of a company",
+   "reason": "Managing Director of a company is an executive officer of the company, but the Chairman is a non- executive officer. Rule 7(3), RPC"
+  },
+    {
+   "id": "4",
+   "question": "To enjoy the exclusive rights of legal practitioners in Nigeria, a lawyer must have to do all the following except",
+   "options": {
+    "a": "Payment of practising fees promptly",
+    "b": "The appropriate use of seal and stamp",
+    "c": "Participating in mandatory continuing legal education",
+    "d": "Contesting for executive positions of the NBA"
+   },
+   "answer": "Contesting for executive positions of the NBA",
+   "reason": "Rule 10 makes stamp and seal compulsory, Rule 9 does the same for practising fee and Rule 11 does the same for mandatory continuing legal education, prescribing hours expected of lawyers"
+  },
+    {
+   "id": "5",
+   "question": "Tony, a 10 year old girl, was raped by two thugs on her way home from school. She was brutally injured and left to die, but was miraculously rushed to the Hospital by passers-by and she survived. Furious and determined to end the lives of the two thugs, Carlee Jackson, the father of Tony, contacted Jimoh Esq and told him of his intention to kill the thugs and should be be charged to court, Jimoh would defend him. Jimoh advised him to go ahead saying if he found himself in similar situation, he would have killed the thugs a long time ago. Which professional duty has Jimoh Esq breached from the scenario?",
+   "options": {
+    "a": "Duty to advise his client within the bounds of the law",
+    "b": "Duly to prevent the commission of a crime",
+    "c": "Duty to uphold the rule of law",
+    "d": "All of the above "
+   },
+   "answer": "All of the above ",
+   "reason": "See Rule 1 and 15 of the RPC 2023"
+  },
+    {
+   "id": "6",
+   "question": "A counsel does not owe any duty to the",
+   "options": {
+    "a": "Client",
+    "b": "State",
+    "c": "Court",
+    "d": "None of the Above"
+   },
+   "answer": "None of the Above",
+   "reason": "Rules 14 - 25 provides for duties to client, Rules 26 - 29 provides for duties to other lawyers, Rules 30 - 38 provides for duties to the court"
+  },
+    {
+   "id": "7",
+   "question": "What does the Rule 39 provides for?",
+   "options": {
+    "a": "Dedication and devotion to the cause of the client",
+    "b": "Withdrawal from employment",
+    "c": "Instigating litigation",
+    "d": "Advertising and soliciting"
+   },
+   "answer": "Advertising and soliciting",
+   "reason": "A lawyer can advertise to an extent but cannot solicit."
+  },
+    {
+   "id": "8",
+   "question": "All except one are members of the National Judicial Council",
+   "options": {
+    "a": "Chief Justice of Nigeria",
+    "b": "Attorney General of the Federation",
+    "c": "Next most senior Justice of the Supreme Court",
+    "d": "President of the Court of Appeal"
+   },
+   "answer": "Attorney General of the Federation",
+   "reason": "The AGF is not a member of the NJC. See the composition of the NJC, Third Schedule, CFRN"
+  },
+    {
+   "id": "9",
+   "question": "The total membership of the National Judicial Council according to the Constitution is",
+   "options": {
+    "a": "24",
+    "b": "23",
+    "c": "25",
+    "d": "26"
+   },
+   "answer": "24",
+   "reason": " See Third Schedule, CFRN as amended."
+  },
+    {
+   "id": "10",
+   "question": "The Legal Practitioners Disciplinary Committee has decided to try Franklin for the professional offence(s) committed. Which of the following constitutes proper parties before the Committee?",
+   "options": {
+    "a": "NBA v Franklin",
+    "b": "BOB v Franklin",
+    "c": "LPDC v Franklin",
+    "d": "Registered Trustees of NBA v Franklin"
+   },
+   "answer": "Registered Trustees of NBA v Franklin",
+   "reason": "See section 11 of the Legal Practitioners Act 1975"
+  },
+    {
+   "id": "11",
+   "question": "The Legal Practitioners Disciplinary Committee Rules was made by",
+   "options": {
+    "a": "The Attorney General of the Federation",
+    "b": "The President of the Court of Appeal",
+    "c": "The Chief Justice of Nigeria",
+    "d": "The National Assembly"
+   },
+   "answer": "The Chief Justice of Nigeria",
+   "reason": "Section 10(7) LPA."
+  },
+    {
+   "id": "12",
+   "question": "The standard of proof in contempt in facie curiae is",
+   "options": {
+    "a": "Balance of probability",
+    "b": "Beyond reasonable doubt",
+    "c": "Proof to the satisfaction of the Court",
+    "d": "Clear and convincing evidence"
+   },
+   "answer": "Beyond reasonable doubt",
+   "reason": "Proof of contempt, whether civil or criminal, is beyond reasonable doubt. This is because the outcome of contempt is penal in nature."
+  },
+    {
+   "id": "13",
+   "question": "In legal drafting, how many types of paragraphing techniques do we have?",
+   "options": {
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5"
+   },
+   "answer": "2",
+   "reason": "There are two paragraphing techniques: two layered paragraph and three layered paragraph"
+  },
+    {
+   "id": "14",
+   "question": "You were an extern in the Legal Drafting Department of the Ministry of Justice of Lagos State. The Director has asked you what part of a legislation broadly captures main themes of the legislation?",
+   "options": {
+    "a": "Short Title",
+    "b": "Long Title",
+    "c": "Preamble",
+    "d": "Commencement Clause"
+   },
+   "answer": "Long Title",
+   "reason": "The Long title captures the main theme of the legislation"
+  },
+    {
+   "id": "15",
+   "question": "The doctrine of construing documents e.g. contracts that are ambiguous against the maker is termed",
+   "options": {
+    "a": "Utres magisvale at quam pereat",
+    "b": "Ejusdem generis",
+    "c": "Contra preferentem ",
+    "d": "Generalibuss pecialiaderogant"
+   },
+   "answer": "Contra preferentem ",
+   "reason": "The contra proferentem rule means that the words of a written document, usually an exclusion clause in a contract, are construed more forcibly against the party using them."
+  },
+    {
+   "id": "16",
+   "question": "The rule relating to ordering witnesses out of court and hearing does not apply to:",
+   "options": {
+    "a": "Expert witnesses",
+    "b": "Claimant",
+    "c": "Subpoenaed witnesses",
+    "d": "Eye witnesses"
+   },
+   "answer": "Claimant",
+   "reason": "sec. 212 of Evidence Act"
+  },
+    {
+   "id": "17",
+   "question": "The statutory period for keeping closed files is",
+   "options": {
+    "a": "6 years",
+    "b": "3 years",
+    "c": "4 years",
+    "d": "None"
+   },
+   "answer": "None",
+   "reason": "There is no statutory period or limit within which closed files are to be kept."
+  },
+    {
+   "id": "18",
+   "question": "The following are ethical issues in client interview and counselling except:",
+   "options": {
+    "a": "Advising the client within the bound of the law",
+    "b": "Preserving confidential information",
+    "c": "Assuring the client of the success of his claim",
+    "d": "None of the above"
+   },
+   "answer": "Assuring the client of the success of his claim",
+   "reason": "You can't assure the client of success but you can brief him of the relative strengths and weaknesses of the case"
+  },
+    {
+   "id": "19",
+   "question": "A lawyer is allowed to make reasonable and permissible advertisements on all but one of the following",
+   "options": {
+    "a": "Fliers and billboards",
+    "b": "Signs and notices",
+    "c": "Books and articles",
+    "d": "Notepapers and envelopes "
+   },
+   "answer": "Fliers and billboards",
+   "reason": "see Rule 39 RPC 2023"
+  },
+    {
+   "id": "20",
+   "question": "Which of the following ADR mechanisms is regulated by the law?",
+   "options": {
+    "a": "Arbitration",
+    "b": "Mediation",
+    "c": "Conciliation",
+    "d": "A and C"
+   },
+   "answer": "A and C",
+   "reason": "Arbitration and Conciliation Act"
+  }
+ ]}

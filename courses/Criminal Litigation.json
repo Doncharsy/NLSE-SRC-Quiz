@@ -145,15 +145,15 @@
   },
   {
    "id": "13",
-   "question": "The effect of the withdrawal by the prosecution is one of the following:",
+   "question": "The effect of Nolle prosequi by the Attorney General is one of the following:",
    "options": {
     "a": "It amounts to a discharge of the defendant",
     "b": "It amounts to an acquittal of the defendant",
     "c": "The defendant can be tried for the same offence upon fresh evidence being discovered",
     "d": "None of the above"
    },
-   "answer": "It amounts to an acquittal of the defendant",
-   "reason": " Withdrawal by the prosecution, after close of defence by the accused, amounts to an acquittal."
+   "answer": "It amounts to a discharge of the defendant",
+   "reason": "The effect of Nolle prosequi is that it is a discharge thus, the defendant can be tried on the exact same issue again."
   },
   {
    "id": "14",

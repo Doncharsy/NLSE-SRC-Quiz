@@ -262,12 +262,15 @@ function checkHighScore(score, totalQuestions, name ){
   if(score >= totalQuestions / 2){
     let words = `THE LAW! seems ${name} was too easy`
     showMessage(words)
+  resetGame()
+    
   }
   else{
     let words = `Na like this you wan write Bar finals??`
     showMessage(words)
-  }
   resetGame()
+    
+  }
  }
 
 

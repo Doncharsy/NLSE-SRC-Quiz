@@ -238,6 +238,246 @@
    },
    "answer": "21 years",
    "reason": "Sec.24 Wills Act"
+  },
+  {
+   "id": "21",
+   "question": "The Property and Conveyancing Law is applicable in all but one of the following states:",
+   "options": {
+    "a": "Lagos State",
+    "b": "Edo State",
+    "c": "Delta State",
+    "d": "Ekiti State"
+   },
+   "answer": "Lagos State",
+   "reason": "The Property and Conveyancing Law (PCL) is applicable in the States belonging to the old Western Region: Ondo, Oyo, Osun, Ogun, Edo, Ekiti and Delta (OOOOEED). Lagos is not part of those States. Lagos has its own separate laws like the Mortgage and Property Law, Lagos State Land Registration Law."
+  },
+   {
+   "id": "22",
+   "question": "Tunde Adisa has agreed to sell his plot of Land situate at No. 8, Akonduma street, Asaba to Mike Ontario for the sum of ₦1,000,000. Which of the following laws will be inapplicable in the above transaction?",
+   "options": {
+    "a": "The Property and Conveyancing Law",
+    "b": "The Conveyancing Act",
+    "c": "The Stamp Duties Act",
+    "d": "None of the above"
+   },
+   "answer": "The Conveyancing Act",
+   "reason": "The property in the question is situate in Asaba, Delta State, where the PCL and not the Conveyancing Act (CA) is applicable. Note that the CA is applicable to States in the old Eastern and Northern region."
+  },
+   {
+   "id": "23",
+   "question": "The transaction involving land which is usually but not necessarily for consideration is?",
+   "options": {
+    "a": "Sale",
+    "b": "Mortgage",
+    "c": "Lease",
+    "d": "Assignment"
+   },
+   "answer": "Lease",
+   "reason": " Lease is the transfer of possession in a property for a term of years certain, usually but not necessarily for consideration. Rent is not an essential requirement for the validity of a lease agreement. But Sale, Assignment and Mortgage always involve consideration."
+  },
+   {
+   "id": "24",
+   "question": "One of the following is not true of the uses of a deed:",
+   "options": {
+    "a": "To effect conveyance of an interest, right or property in a real estate",
+    "b": "Create an obligation binding on a person",
+    "c": "Confirm some act whereby an interest or property has already passed",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "A deed can be used to convey an interest in land, create an obligation binding on a party or confirm an act whereby an interest has already passed."
+  },
+   {
+   "id": "25",
+   "question": "All are essential elements for the validity of a deed except:",
+   "options": {
+    "a": "Attestation",
+    "b": "Delivery",
+    "c": "Signing",
+    "d": "Sealing"
+   },
+   "answer": "Attestation",
+   "reason": "Attestation is not a mandatory requirement of a deed, but it is useful as when coupled with signing, it raises the presumption of due execution. (see section 159 EA). However, in some instances, attestation is mandatory. The basic features of a deed are: signing, sealing and delivery."
+  },
+   {
+   "id": "26",
+   "question": "A Deed will require mandatory attestation where one of the following is a party:",
+   "options": {
+    "a": "An illiterate",
+    "b": "Business Name registered under Part E",
+    "c": "A and B",
+    "d": "Power of Attorney"
+   },
+   "answer": "An illiterate",
+   "reason": "A deed will require mandatory attestation in the following circumstances: a- Where an illiterate or Blind person is a party, b- Corporate bodies. Note that there's a presumption in favour of due execution of a power of attorney where it is attested to before a notary public, magistrate or commissioner for Oaths (see s. 150 EA)"
+  },
+   {
+   "id": "27",
+   "question": "One of the following is not one of the effects of a receipt clause in a deed:",
+   "options": {
+    "a": "Makes the issuance of a separate receipt unnecessary",
+    "b": "It constitutes good root of title to the transaction contained in the Deed.",
+    "c": "It is evidence of payment of consideration.",
+    "d": "It is authority to pay the sum to the Vendor’s solicitor where he presents such instrument"
+   },
+   "answer": "It constitutes good root of title to the transaction contained in the Deed.",
+   "reason": "A receipt clause does not constitute evidence of a good root of title to land transaction."
+  },
+   {
+   "id": "28",
+   "question": "One of the following is not true of a deed delivered in escrow:",
+   "options": {
+    "a": "The deed is binding from the date of execution",
+    "b": "The innocent party is entitled to withdraw if the conditions are not fulfilled",
+    "c": "The deed is not binding until condition is fulfilled",
+    "d": "A and B above"
+   },
+   "answer": "The deed is not binding until condition is fulfilled",
+   "reason": "A deed in escrow takes effect (binding) upon delivery subject to the fulfillment of the conditions. One party cannot unilaterally withdraw from the agreement within this period. When the conditions are met, the doctrine of relating back transfers the effective date of delivery to the date the deed was delivered, not the date the conditions were performed."
+  },
+   {
+   "id": "29",
+   "question": "The order of perfection of a deed of  Assignment on a property located in Asaba, Delta is?",
+   "options": {
+    "a": "Registration, Consent and Stamping",
+    "b": "Consent, Registration and Stamping",
+    "c": "Registration, Stamping and Consent",
+    "d": "Consent, Stamping and Registration"
+   },
+   "answer": "Consent, Stamping and Registration",
+   "reason": "The order of perfection of a deed is Consent, Stamping and Registration (CSR). Irrespective of the location of the property"
+  },
+   {
+   "id": "30",
+   "question": "For a property situate at No. 13, Onipanu, Bwari, Abuja the stamp duty payable on the Deed of assignment for its sale shall be assessed as?",
+   "options": {
+    "a": "Fixed rate",
+    "b": "Flat rate",
+    "c": "Ad valorem",
+    "d": "40%"
+   },
+   "answer": "Ad valorem",
+   "reason": "The stamp duty payable on a deed of assignment is ad valorem, meaning it is calculated based on the value of the property. However, for a contract of sale of land, the stamp duty payable is fixed."
+  },
+   {
+   "id": "31",
+   "question": "A Purchaser of part of the property of a vendor is not entitled to the entire title documents but can be protected by:",
+   "options": {
+    "a": "Covenant for Indemnity",
+    "b": "Trust Declaration",
+    "c": "Power of Attorney",
+    "d": "Acknowledgment for custody and production"
+   },
+   "answer": "Acknowledgment for custody and production",
+   "reason": "Acknowledgement for custody and production is a clause contained in the miscellaneous part of a deed. It is to protect an assignee who has purchased a part of a property covered by a single document, which cannot be given to him."
+  },
+   {
+   "id": "32",
+   "question": "One of the following is not a reason why a Deed of assignment should not be dated:",
+   "options": {
+    "a": "Because of the uncertainty of when Governor consent would be obtained",
+    "b": "To avoid the incidence of late stamping",
+    "c": "To avoid the incidence of late registration",
+    "d": "To give the assignee ample time to investigate the assignor title"
+   },
+   "answer": "To give the assignee ample time to investigate the assignor title",
+   "reason": "It is advised that a Deed should not be dated because of the uncertainty of  time in getting the governor’s consent and to avoid the incident of penalties for late stamping and late registration. Once dated, the deed must be stamped within 30 days and registered within 60 days"
+  },
+   {
+   "id": "33",
+   "question": "When a vendor conveys property as beneficial owner, one of the following is not implied:",
+   "options": {
+    "a": "That the lease is valid and subsisting",
+    "b": "A right to convey",
+    "c": "Quiet enjoyment of possession",
+    "d": "Freedom from encumbrances except those disclosed."
+   },
+   "answer": "That the lease is valid and subsisting",
+   "reason": "This will only be implied when the property is covered by a Certificate of Occupancy. if it is not expressly stated that it is, then assume the property is a freehold"
+  },
+   {
+   "id": "34",
+   "question": "A purchaser who wishes to pay the balance of the purchase money to the vendor solicitor may protect himself by inserting in the Deed of Assignment____",
+   "options": {
+    "a": "Indemnity clause",
+    "b": "Receipt clause",
+    "c": "Safe custody and acknowledgement for production clause",
+    "d": "Consideration clause"
+   },
+   "answer": "Receipt clause",
+   "reason": "One of the functions of a receipt clause is that it serves as authority to the buyer to pay the consideration to the vendor solicitor. Sec. 56, CA and Sec. 94, PCL."
+  },
+   {
+   "id": "35",
+   "question": "Pick out the odd one from the following.",
+   "options": {
+    "a": "Ezeigwe v Awudu",
+    "b": "Ude v Uwara",
+    "c": "Awojugbagbe Light Industries v Chinukwe",
+    "d": "Powell v London Provincial Bank ."
+   },
+   "answer": "Awojugbagbe Light Industries v Chinukwe",
+   "reason": "All the cases apart from Awojugbabe Light Industries v Chinukwe, are specifically under Power of Attorney."
+  },
+   {
+   "id": "36",
+   "question": "Only one of the following is not a feature of a power of attorney:",
+   "options": {
+    "a": "It is an instrument of delegation",
+    "b": "It is a valid means of transfer of interest in land",
+    "c": "It is a specie of a deed poll",
+    "d": "It is generally revocable"
+   },
+   "answer": "It is a valid means of transfer of interest in land",
+   "reason": "Power of attorney is an instrument of delegation, not one of transfer of interest in land."
+  },
+   {
+   "id": "37",
+   "question": "The following are not incorrect about Power of attorney except:",
+   "options": {
+    "a": "It does not transfer interest in land",
+    "b": "It is an instrument of delegation",
+    "c": "It has no special mode of creation in all instances",
+    "d": "It should expressly state the power which the Donee can exercise."
+   },
+   "answer": "It has no special mode of creation in all instances",
+   "reason": "There is a special mode of creation in certain instances. For example, it must be created by deed where the Donee will execute a deed."
+  },
+   {
+   "id": "38",
+   "question": "If in a formal contract executed by parties, there is possession before completion clause, the vendor is advised to let the purchaser in as a/an:",
+   "options": {
+    "a": "Lessee",
+    "b": "Tenant",
+    "c": "Licensee",
+    "d": "Equitable owner"
+   },
+   "answer": "Licensee",
+   "reason": "Where there is possession before completion in a contract of sale; it is advisable for the vendor to let the purchaser in as a licensee so that in the event of default, one does not have to go through the rigorous process of regaining the property. As a licensee, All that is required is a 7 days’ notice of eviction. Street v Mountford."
+  },
+   {
+   "id": "39",
+   "question": "The stamp duty payable on a contract of sale of land is",
+   "options": {
+    "a": "Ad valorem",
+    "b": "Fixed",
+    "c": "It depends on the jurisdiction",
+    "d": "None of the above"
+   },
+   "answer": "Fixed",
+   "reason": "Contract of sale of land attracts a fixed stamp duty unlike a deed of assignment, where the stamp duty payable is advalorem."
+  },
+   {
+   "id": "40",
+   "question": "A contract of sale of land is a registrable instrument in all but one of the following states",
+   "options": {
+    "a": "Ondo State",
+    "b": "Edo State",
+    "c": "Kwara State",
+    "d": "Delta State"
+   },
+   "answer": "Kwara State",
+   "reason": "Contract of sale is a registrable instrument in the PCL states of the old Western region, but it is not in the Northern States. Sec. 58, Laws of Northern Nigeria. In the Eastern States, the law is silent, but in the case of Okoye v Dumez it was held that a contract of sale is registrable."
   }
  ]
  }

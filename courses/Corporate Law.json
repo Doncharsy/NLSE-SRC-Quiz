@@ -238,6 +238,246 @@
    },
    "answer": "10 years",
    "reason": "Failure to file annual returns for a consecutive period of 10 years is a ground for striking the name of a company off the companies register. See Section 425 (3) of CAMA."
+  },
+  {
+   "id": "21",
+   "question": "The Chairman of the Board of CAC is appointed by _________ on the recommendation of ____________",
+   "options": {
+    "a": "Minister of Trade, Attorney General of the Federation",
+    "b": "Minister of Finance, President",
+    "c": "President, Minister of Trade",
+    "d": "President, Attorney General of the Federation"
+   },
+   "answer": "President, Minister of Trade",
+   "reason": "The chairman of the governing board of CAC is appointed by the President of Nigeria on the recommendation of the Minister of Trade. See Section 2(2)(a) of CAMA 2020."
+  },
+    {
+   "id": "22",
+   "question": "Members of the Board of CAC are appointed to hold office for ____",
+   "options": {
+    "a": "2 years",
+    "b": "3 years",
+    "c": "4 years",
+    "d": "5 years"
+   },
+   "answer": "3 years",
+   "reason": "The members of the governing board of CAC are appointed to hold office for a term of three years but may be re-appointed. See Section 3(1) of CAMA."
+  },
+    {
+   "id": "23",
+   "question": "The Companies and Allied Matters Act is divided into how many parts?",
+   "options": {
+    "a": "7",
+    "b": "6",
+    "c": "3",
+    "d": "5"
+   },
+   "answer": "7",
+   "reason": "CAMA 2020 has 7 parts: Parts A-G"
+  },
+    {
+   "id": "24",
+   "question": "As a general rule, the minimum and maximum age limit for appointment as a director in a private company is?",
+   "options": {
+    "a": "21 years and 70 years respectively",
+    "b": "18 years and 70 years respectively",
+    "c": "18 years and 75 years respectively",
+    "d": "18 years and none respectively"
+   },
+   "answer": "18 years and none respectively",
+   "reason": "For a private company, there is no restriction on the maximum age limit of directors. For a public company, if a person above 70 years is to be appointed a director, special notice disclosing his age must be given to the company. See Section 278(1) and 282 of CAMA. In both private and public companies, directors must be at least 18 years. See Section 283 of CAMA."
+  },
+    {
+   "id": "25",
+   "question": "A chamber of commerce is registered under what part of CAMA",
+   "options": {
+    "a": "Part A",
+    "b": "Part B",
+    "c": "Part C",
+    "d": "Part D"
+   },
+   "answer": "Part B",
+   "reason": "section 852 provides that only a company limited by guarantee can take the name Chamber of Commerce and a company limited by guarantee is under part B of CAMA 2020"
+  },
+    {
+   "id": "26",
+   "question": "A company limited by guarantee lacks one of the following?",
+   "options": {
+    "a": "Directors",
+    "b": "Company Secretary",
+    "c": "Shareholding",
+    "d": "Memorandum of Association"
+   },
+   "answer": "Shareholding",
+   "reason": "A Company Limited by Guarantee does not have a share capital. See Section 26(2) of CAMA."
+  },
+    {
+   "id": "27",
+   "question": "What section provides for the alteration of the object clause?",
+   "options": {
+    "a": "Section 30",
+    "b": "Section 127",
+    "c": "Section 51",
+    "d": "Section 80"
+   },
+   "answer": "Section 51",
+   "reason": "Section 50(2) CAMA states that the alteration of the object clause must be in accordance with section 51 of CAMA 2020"
+  },
+    {
+   "id": "28",
+   "question": "Which of the following alterations must be confirmed by court?",
+   "options": {
+    "a": "Name Clause",
+    "b": "Object Clause",
+    "c": "Increase of share capital",
+    "d": "Reduction of share capital"
+   },
+   "answer": "Reduction of share capital",
+   "reason": "Section 130 of CAMA provides that the articles must empower a company before it can reduce its share capital and such reduction must be approved by court."
+  },
+    {
+   "id": "29",
+   "question": "The following except one can requsition an Extra Ordinary General meeting?",
+   "options": {
+    "a": "Board of Directors",
+    "b": "Members",
+    "c": "Company secretary",
+    "d": "Resigning Auditor"
+   },
+   "answer": "Company secretary",
+   "reason": "Section 413 allows for a resigning Auditor to requisition an EGM"
+  },
+    {
+   "id": "30",
+   "question": "Which of the following circumstance is the right to demand poll non-existent",
+   "options": {
+    "a": "Adjourment of Meeting",
+    "b": "Election of Chairman",
+    "c": "Election of Audit committe",
+    "d": "Appointment of directors"
+   },
+   "answer": "Election of Audit committe",
+   "reason": "For Adjourment and Election of chairman, the Articles must expressly take away such right but for Election of Audit committe, it irrelevant if such provision is in the articles or not, the right to demand poll will not exist in such cases."
+  },
+    {
+   "id": "31",
+   "question": "One of the following content is only necessary for Public companies in Annual records?",
+   "options": {
+    "a": "Directors report",
+    "b": "Auditors report",
+    "c": "Statement of accounting policy",
+    "d": "Balance sheet"
+   },
+   "answer": "Statement of accounting policy",
+   "reason": "See section 377 CAMA 2020"
+  },
+    {
+   "id": "32",
+   "question": "What section of the Nigerian Investment Promotion Commission Act assures investors of a dispute resolution process?",
+   "options": {
+    "a": "section 18",
+    "b": "section 20",
+    "c": "section 25",
+    "d": "section 26"
+   },
+   "answer": "section 26",
+   "reason": "Section 26 NIPC Act assures investors of a dispute resolution process"
+  },
+    {
+   "id": "33",
+   "question": "If there exist 60 directors, the quorum for BOD will be what?",
+   "options": {
+    "a": "30",
+    "b": "20",
+    "c": "25",
+    "d": "15"
+   },
+   "answer": "20",
+   "reason": "Section 290 CAMA provides that the quorum can either be 25 or 1/3 depending on which is less. In this case, 1/3 of 60 is 20 which is less than 25."
+  },
+    {
+   "id": "34",
+   "question": "Can a private company invite the public to subscribe to its securities?",
+   "options": {
+    "a": "NO",
+    "b": "Yes",
+    "c": "Maybe",
+    "d": "None of the above"
+   },
+   "answer": "Yes",
+   "reason": "section 67 of ISA has been amended by section 43 of BFA allowing for a private company to invite the public"
+  },
+    {
+   "id": "35",
+   "question": "The form for registering of securities is called what?",
+   "options": {
+    "a": "CAC 6",
+    "b": "CAC 10",
+    "c": "SEC 6",
+    "d": "SEC 10"
+   },
+   "answer": "SEC 6",
+   "reason": "see section 279(2) ISA"
+  },
+    {
+   "id": "36",
+   "question": "What is the principal Law on Mergers",
+   "options": {
+    "a": "Investment and Securities Act",
+    "b": "Federal Competition and Consumers Protection Act",
+    "c": "National Office for Technology Acquisition and Promotion Act",
+    "d": "Securities and Exchange Commission Rules"
+   },
+   "answer": "Federal Competition and Consumers Protection Act",
+   "reason": "Section 168 of FCCPA has repealed sections 118 - 128 of ISA"
+  },
+    {
+   "id": "37",
+   "question": "The following are forms of a prospectus except?",
+   "options": {
+    "a": "Abridged prospectus",
+    "b": "Deemed Prospectus",
+    "c": "Statement in Lieu of prospectus",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "The forms of prospectus includes: full prospectus; Abridged prospectus; Deemed Prospectus; Statement in Lieu of prospectus"
+  },
+    {
+   "id": "38",
+   "question": "Where share qualification is required, a director who is not qualified must obtain his share qualification within _____after his appointment",
+   "options": {
+    "a": "21 days",
+    "b": "One month",
+    "c": "Three months",
+    "d": "Two months"
+   },
+   "answer": "Two months",
+   "reason": "Where share qualification is required, a director who is not qualified must obtain his qualification within two months after his appointment. See Section 277(2) of CAMA."
+  },
+    {
+   "id": "39",
+   "question": "Failure to hold statutory meeting could be a ground for",
+   "options": {
+    "a": "Automatic winding up",
+    "b": "Members voluntary winding up",
+    "c": "Creditors voluntary winding up",
+    "d": "Compulsory winding up"
+   },
+   "answer": "Compulsory winding up",
+   "reason": "Failure to hold a statutory meeting could be a ground for compulsory winding up of the company. See Section 571 (b) of CAMA."
+  },
+    {
+   "id": "40",
+   "question": "The period for filing the annual returns for business name is",
+   "options": {
+    "a": "Between January 1 and June 30 each year",
+    "b": "Between January 1 and July 30 each year",
+    "c": "Between June 30 and December 31 each year",
+    "d": "Between July 30 and December 31 each year"
+   },
+   "answer": "Between January 1 and June 30 each year",
+   "reason": "The annual returns of a business name must be filed not later than June 30, every year. See Section 822(1) of CAMA."
   }
 ]
  }

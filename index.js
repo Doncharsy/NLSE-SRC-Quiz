@@ -165,6 +165,7 @@ function shuffle(arr){
     // showMessage(`you scored ${scoreValue} out of ${database.length}`);
     checkHighScore(scoreValue, database.length, courseName.innerHTML)
     labels.forEach(item => item.classList.add('pointer-event'))
+     
    }
     quizContainer.classList.remove('blur')
     card.classList.remove('card-show')
@@ -266,6 +267,7 @@ function checkHighScore(score, totalQuestions, name ){
     let words = `Na like this you wan write Bar finals??`
     showMessage(words)
   }
+  resetGame()
  }
 
 

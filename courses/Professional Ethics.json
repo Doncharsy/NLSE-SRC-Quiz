@@ -238,5 +238,245 @@
    },
    "answer": "A and C",
    "reason": "Arbitration and Conciliation Act"
+  },
+  {
+   "id": "21",
+   "question": "Which of the following is a disciplinary measure that can be meted out to erring judicial officers?",
+   "options": {
+    "a": "Recommendation for dismissal",
+    "b": "Demotion to a lower court",
+    "c": "Non promotion to a higher court for a period of 10 years",
+    "d": "Non promotion to a higher court for a period of 5 years"
+   },
+   "answer": "Recommendation for dismissal",
+   "reason": "The disciplinary measures against a judicial officer are removal and suspension. It must be noted that the NJC does not have the power of removal, but can only recommend such"
+  },
+  {
+   "id": "22",
+   "question": "A complaint against a Judicial Officer can be addressed to:",
+   "options": {
+    "a": "The Chairman NJC",
+    "b": "Chief Justice of Nigeria",
+    "c": "A and B",
+    "d": "None of the above"
+   },
+   "answer": "A and B",
+   "reason": "The CJN is the Chairman of the NJC. see section 153 CFRN"
+  },
+  {
+   "id": "23",
+   "question": "The Chief Justice of Nigeria is the Chairman of which of the following regulatory bodies:",
+   "options": {
+    "a": "The National Judicial Council",
+    "b": "The Legal Practitioners Privileges Committee",
+    "c": "Legal Practitioner Disciplinary Committe",
+    "d": "A and B"
+   },
+   "answer": "A and B",
+   "reason": "The CJN is the Chairman of the NJC as well as the LPPC. See Sec. 5(3), LPA and Third Schedule to the 1999 Constitution as amended."
+  },
+  {
+   "id": "24",
+   "question": "The following restrictions apply to Senior Advocates of Nigeria except:",
+   "options": {
+    "a": "They shall not draft any instrument where the charge is below ₦400.",
+    "b": "They shall not handle any pro bono case personally, but shall give it to his junior",
+    "c": "They shall not appear in any criminal case alone without a junior counsel",
+    "d": "B and C"
+   },
+   "answer": "B and C",
+   "reason": "There is nothing which prevents SANs from handling probono cases themselves. Likewise, they can appear alone without any junior in a criminal case, not civil case."
+  },
+  {
+   "id": "25",
+   "question": "A person who is not a lawyer can be appointed as a Judicial Officer in which of the following courts",
+   "options": {
+    "a": "Customary Court of Appeal",
+    "b": "Sharia Court of Appeal",
+    "c": "A and B",
+    "d": "None of the above"
+   },
+   "answer": "A and B",
+   "reason": "a non-lawyer is qualified for appointment as judge of the Customary Court of Appeal or Kadi of the Sharia Court of Appeal. See. Sec. 261 and 266, CFRN."
+  },
+  {
+   "id": "26",
+   "question": "The rules guiding the conduct of dinner for candidates of the Nigerian Bar were prescribed by:",
+   "options": {
+    "a": "The Council of Legal Education",
+    "b": "The Body of Benchers",
+    "c": "Director General of Nigerian Law School",
+    "d": "Nigerian Bar Association"
+   },
+   "answer": "The Body of Benchers",
+   "reason": "One of the functions of the BOB is the prescription of dining rules."
+  },
+  {
+   "id": "27",
+   "question": "One of the following is not an exclusive right of legal practitioners:",
+   "options": {
+    "a": "Appointment as notary public",
+    "b": "Statutory declaration of compliance",
+    "c": "Registration of business name",
+    "d": "None of the above"
+   },
+   "answer": "Registration of business name",
+   "reason": "Registration of business names and even companies are not part of the exclusive rights of legal practitioners. Statutory declaration is still an exclusive right of a legal practitioner although it is no longer a necessity in registering a company as a statement of compliance by an agent will suffice. see section 40(3) CAMA 2020."
+  },
+  {
+   "id": "28",
+   "question": "All but one of the following are not judicial officers:",
+   "options": {
+    "a": "Kadis of the Sharia Court of Appeal",
+    "b": "Judges of customary courts",
+    "c": "Chief Magistrates of various courts",
+    "d": "Judges of Area Courts"
+   },
+   "answer": "Kadis of the Sharia Court of Appeal",
+   "reason": "Customary Courts, Area Courts and Magistrates Courts are not superior courts, thus, judges and magistrates of these courts are not regarded as judicial officers. Sec.318, CFRN."
+  },
+  {
+   "id": "29",
+   "question": "One of the following is incorrect",
+   "options": {
+    "a": "A lawyer who practices at the bar can engage in any other profession if permitted by the Bar council",
+    "b": "A director of a registered company shall not appear as an advocate in court or in a judicial tribunal for his company",
+    "c": "A retired judicial officer cannot represent himself in court",
+    "d": "A lawyer who has not paid his practicing fee will be denied right of audience."
+   },
+   "answer": "A retired judicial officer cannot represent himself in court",
+   "reason": "See; Atake v Afejuku, Rule 6, RPC."
+  },
+  {
+   "id": "30",
+   "question": "During the recently concluded portfolio assessment at the Nigerian Law School, Mary, a student, gave an account in her log book of witnessing Mr. Okeke Dabo, a nonlawyer prosecuting his personal matter in court. Which of the following is a correct statement in respect of Mr. Okeke Dabo?",
+   "options": {
+    "a": "The RPC prohibits him from prosecuting any case in court unless he is called to bar",
+    "b": "He may prosecute his personal case in Court",
+    "c": "He may prosecute his personal case in court provided he does not cite legal authorities and use legal jargon",
+    "d": "He may prosecute his matter only at an inferior court"
+   },
+   "answer": "He may prosecute his personal case in Court",
+   "reason": "See; Sec. 36(6)(c), CFRN."
+  },
+  {
+   "id": "31",
+   "question": "Lawyers are enjoined to have offices where they practice and can receive instructions from clients so as not to breach what Rule of RPC?",
+   "options": {
+    "a": "Rule 20",
+    "b": "Rule 21",
+    "c": "Rule 22",
+    "d": "Rule 23"
+   },
+   "answer": "Rule 22",
+   "reason": "Rule 22 prevents calling at a client house or place of business for the purpose of taking instructions except in exceptional cases like ill health, extreme old age etc."
+  },
+  {
+   "id": "32",
+   "question": "Payment of Practice fee is covered by what Rule?",
+   "options": {
+    "a": "Rule 9",
+    "b": "Rule 8",
+    "c": "Rule 10",
+    "d": "Rule 7"
+   },
+   "answer": "Rule 9",
+   "reason": "Failure to pay practice fee will deprive the lawyer of right to audience in court and other things see Rule 9 RPC"
+  },
+  {
+   "id": "33",
+   "question": "It is not unethical for a legal practitioner to:",
+   "options": {
+    "a": "Stand surety for a respectable client",
+    "b": "Reveal confidential information after the termination of the client-counsel relationship.",
+    "c": "Thoroughly investigate facts communicated by his client",
+    "d": "Accept an instruction which involves arguing against the interest of a party paying his retainer"
+   },
+   "answer": "Thoroughly investigate facts communicated by his client",
+   "reason": "A legal practitioner is enjoined to investigate facts presented by his clients. Rule 25, RPC."
+  },
+  {
+   "id": "34",
+   "question": "Generally, legal practitioners ought to pay their practicing fees on or before when?",
+   "options": {
+    "a": "January 31st",
+    "b": "March 31st",
+    "c": "August 31st",
+    "d": "December 31st"
+   },
+   "answer": "March 31st",
+   "reason": "Practicing fee should be paid not later than 31st March every year. see Rule 9 RPC"
+  },
+  {
+   "id": "35",
+   "question": "Who appoints the Chairman of the Council of Legal Education",
+   "options": {
+    "a": "The Attorney General of the Federation",
+    "b": "The Chief Justice of Nigeria",
+    "c": "The President of Nigeria",
+    "d": "The National Judicial Council"
+   },
+   "answer": "The President of Nigeria",
+   "reason": "The chairman is appointed by the President on the recommendation of the AGF"
+  },
+  {
+   "id": "36",
+   "question": "Which of these is not a dereliction of duty to the profession by counsel?",
+   "options": {
+    "a": "Instigating litigation directly or indirectly.",
+    "b": "Searching of land titles for defects.",
+    "c": "Counselling agents and other persons to follow up on accidents with intention to have employment.",
+    "d": "Giving of proper advice to those seeking relief against unfaithful and neglectful counsel."
+   },
+   "answer": "Giving of proper advice to those seeking relief against unfaithful and neglectful counsel.",
+   "reason": "See; Rule 47, RPC."
+  },
+  {
+   "id": "37",
+   "question": "In announcing appearance in court, the expression “your Honour” is used before one of the following courts.___",
+   "options": {
+    "a": "Magistrate Court in Lagos State",
+    "b": "High court in Asaba, Delta State",
+    "c": "Area court in Gusau, Zamfara State",
+    "d": "Magistrate Court in Enugu, Enugu State."
+   },
+   "answer": "Magistrate Court in Lagos State",
+   "reason": "Your Honour is used to address Magistrates in Lagos State while in other states, they use Your Worship"
+  },
+  {
+   "id": "38",
+   "question": "Where a counsel knows that he would most likely be called as a witness in a case, then he should:",
+   "options": {
+    "a": "Accept the brief because cab rank rule admits no exception",
+    "b": "Transfer the case to another person in his firm to handle.",
+    "c": "Accept the brief, as that does not bar Him from testifying in the case",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "Rule 20, RPC. Where a counsel knows that he would most likely be called as a witness in a case, then he should not accept the brief. This applies to the firm."
+  },
+  {
+   "id": "39",
+   "question": "A lawyer shall not wear the Barrister or Senior Advocate robe in all of the following circumstances except:",
+   "options": {
+    "a": "As directed by the Bar Council",
+    "b": "When conducting his own case as party to a legal proceeding in Court.",
+    "c": "When giving evidence in a legal Proceeding in Court",
+    "d": "d.When attending a procession in his church where they want to recognise him."
+   },
+   "answer": "As directed by the Bar Council",
+   "reason": "Rule 45 RPC"
+  },
+  {
+   "id": "40",
+   "question": "A legal practitioner may be disciplined in respect of all the following except:",
+   "options": {
+    "a": "Infamous conduct in a professional respect",
+    "b": "Conviction by any court anywhere",
+    "c": "Obtaining enrolment by fraud",
+    "d": "Conducts which are incompatible with the status of a legal practitioner."
+   },
+   "answer": "Conviction by any court anywhere",
+   "reason": "The reason is because the conviction has to be by a court having power to award imprisonment in Nigeria. Sec. 11(1)(b), LPA."
   }
  ]}

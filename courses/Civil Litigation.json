@@ -239,5 +239,245 @@
    },
    "answer": "180 days",
    "reason": "see. Section 285(6) CFRN, ANPP v. Goni"
+  },
+    {
+   "id": "21",
+   "question": "If all the parties to a civil action in the course of proceedings seek an adjoumment to settle their dispute out of court, they wil need to file and adopt in court:",
+   "options": {
+    "a": "The terms of consent judgment.",
+    "b": "Terms of consent agreement.",
+    "c": "Terms of settlement.",
+    "d": "Terms of brief of settlement."
+   },
+   "answer": "Terms of settlement.",
+   "reason": "The parties file and adopt terms of settlement and the court gives out their terms of settlement as consent judgment"
+  },
+    {
+   "id": "22",
+   "question": "The best means to recover possession from a tenant against whom the court has made an order of recovery of possession is:",
+   "options": {
+    "a": "Warrant for possession",
+    "b": "Writ of possession",
+    "c": "Writ of fifa (fiery facia)",
+    "d": "Writ of sequestration"
+   },
+   "answer": "Warrant for possession",
+   "reason": "The court issues a warrant of possession after 14 days from the date the judgement was delivered except judgement stipulates otherwise."
+  },
+    {
+   "id": "23",
+   "question": "Which of the following best describe the mode to be adopted to commence Fundamental rights action?",
+   "options": {
+    "a": "Petition",
+    "b": "Writ of summons",
+    "c": "Originating motion",
+    "d": "All of the above"
+   },
+   "answer": "Originating motion",
+   "reason": "Originating motion/application is used to commence a Fundamental rights action especially when the matter is contentious (see  Minister of Internal Affairs v. Shugaba). It is however possible to use originating summons where the matter is not contentious and you only want a provision to be interpreted (see Doherty v. Doherty)"
+  },
+    {
+   "id": "24",
+   "question": "The three cross-examination techniques are?",
+   "options": {
+    "a": "Confrontation, proving and co-operative.",
+    "b": "Probing, close and open question",
+    "c": "Confrontation, probing and insinuation.",
+    "d": "Probing, win-win and insinuation."
+   },
+   "answer": "Confrontation, probing and insinuation.",
+   "reason": "They are the 3 techniques for cross examination one can employ when cross examining a witness. Confrontation involves bringing out facts that contradicts what the witness says; Probing involves asking more questions on a shaky area to show inconsistency"
+  },
+    {
+   "id": "25",
+   "question": "One of the following shall constitute an agenda for the Case Management Conference as stated under the Rules:",
+   "options": {
+    "a": "Adoption of witness statement on oath.",
+    "b": "Control and scheduling of discovery, inspection and production of documents.",
+    "c": "Media coverage of the case management proceedings",
+    "d": "Registration of the judgment of the case management judge."
+   },
+   "answer": "Control and scheduling of discovery, inspection and production of documents.",
+   "reason": "Order 27 of both HCCPR Abuja and Lagos provide for the matters in the pre-trial conference and case management conference respectively"
+  },
+    {
+   "id": "26",
+   "question": "What are the processes that you need to file to commence the case management conference",
+   "options": {
+    "a": "Case management notice and case management information sheet",
+    "b": "Statement of defence, affidavit in support, witness statement on oath and list of witnesses.",
+    "c": "Writ of summons, motion on notice and supporting affidavit",
+    "d": "Case managerment certificate and verifying affidavit"
+   },
+   "answer": "Case management notice and case management information sheet",
+   "reason": "Order 27 rule 10(1) HCCPR Abuja, order 27 rule 1 HCCPR Lagos. The claimant shall apply for pre-trial notice/ case management notice within 7 days of close of pleading in Abuja / within 14 days of close of pleadings in Lagos"
+  },
+    {
+   "id": "27",
+   "question": "The purpose of examination-in-chief is to:",
+   "options": {
+    "a": "Lead the witness to give evidence as to the swearing to his affidavit before the court",
+    "b": "Lead the witness to adopt his witness statement on oath",
+    "c": "Lead the witness to give evidence as to the swearing to his witness statement on oath before the court.",
+    "d": "Lead the witness to identify his witness statement on oath"
+   },
+   "answer": "Lead the witness to adopt his witness statement on oath",
+   "reason": "Thanks to the frontloading concept, examination in chief has been reduced to simply leading the witness to adopt his statement on oath as all the material facts are already contained there."
+  },
+    {
+   "id": "28",
+   "question": "Before the examination-in-chief, the witness would have been",
+   "options": {
+    "a": "Sworn or affirmed by the judge",
+    "b": "Cautioned by the judge",
+    "c": "Sworn or affirmed by the Registrar",
+    "d": "Cautioned by the Registrar"
+   },
+   "answer": "Sworn or affirmed by the Registrar",
+   "reason": "This is the part where the witness will swear or affirm to tell the truth, the whole truth and nothing but the truth. it is done by the Registrar"
+  },
+    {
+   "id": "29",
+   "question": "Appeals of the Magistrate Court must be filled within how many days of the decision of the Magistrate Court?",
+   "options": {
+    "a": "1 month",
+    "b": "30 days",
+    "c": "90 days",
+    "d": "14 days"
+   },
+   "answer": "30 days",
+   "reason": "Appeals of the decision of the Magistrates to the High Court must be made within 30 days of the decision."
+  },
+    {
+   "id": "30",
+   "question": "Assuming a cause of action involves arbitrary imposition of electricity bills and it is impracticable to obtain the consent of all affected, what will be the appropriate action?",
+   "options": {
+    "a": "Derivative action",
+    "b": "Representative action",
+    "c": "Joint action.",
+    "d": "Class action"
+   },
+   "answer": "Class action",
+   "reason": "Class action is used when the parties can not be ascertained and if ascertained cannot be found or if found, the action would be proper to use same. see Order 13 rule 15 HCCPR Abuja 2018"
+  },
+    {
+   "id": "31",
+   "question": "Where the suit borders on the interpretation of the will of the deceased, the appropriate mode of commencing the action will be by?",
+   "options": {
+    "a": "Writ of summons",
+    "b": "Originating summons",
+    "c": "Petition",
+    "d": "Originating motion"
+   },
+   "answer": "Originating summons",
+   "reason": "Interpretation of documents or statute should be by Originating summons."
+  },
+    {
+   "id": "32",
+   "question": "Where the defendant has been served with the writ in Abuja, they are expected to file defence within how many days?",
+   "options": {
+    "a": "14 days",
+    "b": "30 days",
+    "c": "21 days",
+    "d": "7 days"
+   },
+   "answer": "21 days",
+   "reason": "In Abuja, Pleadings (statement of defence) is to be filled within 21 days while Apperance is to be entered within 14 days. In lagos, its 42 days for both Apperance and pleadings."
+  },
+    {
+   "id": "33",
+   "question": "At the end of the trial, the defendant will address the court first:",
+   "options": {
+    "a": "If the defendant adduce evidence",
+    "b": "If the defendant did not adduce evidence.",
+    "c": "If the claimant adduce evidence",
+    "d": "If the claimant does not adduce evidence"
+   },
+   "answer": "If the defendant adduce evidence",
+   "reason": "Whoever gives evidence last will address the court. It will fall on the claimant if the defendant does not adduce evidence"
+  },
+    {
+   "id": "34",
+   "question": "Assuming the claimant and his Counsel were absent on the date fixed for case management conference, which of following steps can properly be taken by the court?",
+   "options": {
+    "a": "Enter judgment against the defendant.",
+    "b": "Dismissal of the action of the claimant.",
+    "c": "Award cost against the defendant",
+    "d": "Stay further proceedings in the matter until the claimant Comes to court."
+   },
+   "answer": "Dismissal of the action of the claimant.",
+   "reason": "The court can dismiss the action of the claimant when he is in default of attending the Case management conference"
+  },
+    {
+   "id": "35",
+   "question": "What is the mode of commencing an action under the undefended list procedure",
+   "options": {
+    "a": "Motion exparte",
+    "b": "Writ of summons",
+    "c": "Originating motions",
+    "d": "Motion on Notice"
+   },
+   "answer": "Writ of summons",
+   "reason": "You commence it with a writ of summons accompanied with an affidavit and a pre-action counselling certificate. see Order 35 HCCPR FCT"
+  },
+    {
+   "id": "36",
+   "question": "Assuming Ibe is a yearly tenant in Madam Sade's 3 Bedrooms flat at 3, Kando Street Apapa. Lagos and she wants to recover possession of the property from him, she must do one of the following to properly recover possession:",
+   "options": {
+    "a": "Issue her with a 6months' notice to quit to expire on the eve of the anniversary of her tenancy.",
+    "b": "Issue her with a 6 months' notice to quit to expire any time during or after the expiration of her tenancy.",
+    "c": "Issue her with a 3months' notice to quit to expire on the anniversary of her tenancy.",
+    "d": "Issue her with a 7 days' notice of owner's intention to apply to, recover possession"
+   },
+   "answer": "Issue her with a 6months' notice to quit to expire on the eve of the anniversary of her tenancy.",
+   "reason": "Since he is a yearly tenant, she is to issue a 6 months notice to quit to expire on the eve of the anniversary of his tenancy"
+  },
+    {
+   "id": "37",
+   "question": "The monetary jurisdiction of the district court is",
+   "options": {
+    "a": "5 million",
+    "b": "10 million",
+    "c": "2 million",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "The monetary jurisdiction of district court is 7million"
+  },
+    {
+   "id": "38",
+   "question": "Will the magistrate court have jurisdiction where the arrears of rent exceeds 10 million but the annual rental value is below 10million",
+   "options": {
+    "a": "Yes",
+    "b": "No",
+    "c": "Depends",
+    "d": "None of the above"
+   },
+   "answer": "Yes",
+   "reason": "The magistrate court can have jurisdiction even where the arrears of rent exceeds 10 million but provided the Annual rental value is below 10million"
+  },
+    {
+   "id": "39",
+   "question": "A party who intends to challenge a fact in an affidavit is to file:",
+   "options": {
+    "a": "Further Affidavit",
+    "b": "Counter-claim",
+    "c": "Counter Affidavit",
+    "d": "Statement of defence"
+   },
+   "answer": "Counter Affidavit",
+   "reason": "Counter claim and statement of defence are both pleadings"
+  },
+    {
+   "id": "40",
+   "question": "The case that emphasised the need for the written authority of the landlord before a solicitor can proceed to recover premises from the tenant is?",
+   "options": {
+    "a": "Dada v. Ogunremi",
+    "b": "Coker v. Adetayo",
+    "c": "Oyekoya v. G.B Ollivant",
+    "d": "Ogundiana v. Araba"
+   },
+   "answer": "Coker v. Adetayo",
+   "reason": "in Coker v. Adetayo, the court of Appeal held that both notices (notice to quit and owner's intention to recover possession) must only be issued with the written authority of the landlord."
   }
   ]}

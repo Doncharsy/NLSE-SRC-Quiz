@@ -238,5 +238,245 @@
    },
    "answer": "The President/Governor",
    "reason": "The power to grant a pardon can only be exercised by the President or the Governor. Section 175 and 212 of the 1999 Constitution."
+  },
+  {
+   "id": "21",
+   "question": "To commence criminal proceedings in the Magistrate Court of Lagos State, which of the following is most appropriate?",
+   "options": {
+    "a": "Complaint on oath",
+    "b": "First Information Report",
+    "c": "Information",
+    "d": "Charge"
+   },
+   "answer": "Charge",
+   "reason": "The only way of commencing criminal proceeding in a Magistrate Court in Lagos is by charge"
+  },
+  {
+   "id": "22",
+   "question": "Which of the following is a means of compelling the attendance of a witness in a Magistrate's Court?",
+   "options": {
+    "a": "Witness summons",
+    "b": "Warrant of arrest",
+    "c": "Subpoena",
+    "d": "Bench warrant"
+   },
+   "answer": "Witness summons",
+   "reason": "Witness is used in the Magistrate Court to compel the attendance of a witness in Court. A magistrate does not have the power to issue a subpoena."
+  },
+  {
+   "id": "23",
+   "question": "The types of plea bargain do not include:",
+   "options": {
+    "a": "Sentence bargain",
+    "b": "Conviction bargain",
+    "c": "Charge bargain",
+    "d": "None of the above"
+   },
+   "answer": "Conviction bargain",
+   "reason": "There are two types of plea bargain: charge bargain and sentence bargain (see s.494 ACJA, s.75 ACJL Lagos)"
+  },
+  {
+   "id": "24",
+   "question": "You witnessed criminal proceedings during your court externship programme. You observed a lot of things.From your observations, in what order were the defendants arraigned?",
+   "options": {
+    "a": "The defendant was placed on the dock unfettered; the charge was read and explained to him and he was asked to plead",
+    "b": "The defendant was placed in the dock fettered, the charge was read to him and he was asked to plead",
+    "c": "The charge was read to the accused and he was asked to plead",
+    "d": "All of the above"
+   },
+   "answer": "The defendant was placed on the dock unfettered; the charge was read and explained to him and he was asked to plead",
+   "reason": "The order arraignment is as follows: the accused is placed in the dock unfettered, the charge is read and explained to him in the language he understands and he is then asked to take his plea. Sunmabo v The State"
+  },
+  {
+   "id": "25",
+   "question": "The judicial authority which emphasised the need for the presence of an accused person throughout criminal trial is:",
+   "options": {
+    "a": "Olabode v State",
+    "b": "Olasupo v State",
+    "c": "Adeoye v State",
+    "d": "Adamu v State"
+   },
+   "answer": "Adeoye v State",
+   "reason": "They are exceptions to this rule for example, where the fine/ punishment is small; where the defendant is of unsound mind; where the hearing is for an interlocutory application."
+  },
+  {
+   "id": "26",
+   "question": "Only one of the following totally clears the criminal records of an accused person:",
+   "options": {
+    "a": "Amnesty",
+    "b": "Power of release from prison by the Chief Judge",
+    "c": "Pardon",
+    "d": "Nolle prosequi"
+   },
+   "answer": "Pardon",
+   "reason": "The effect of pardon is that it clears the criminal record of the convict, and he will be deemed not to have committed the offence he was convicted of. Falae v Obasanjo"
+  },
+  {
+   "id": "27",
+   "question": "The right to counsel is a constitutional right provided for under",
+   "options": {
+    "a": "Section 36(6)(a) 1999 CFRN",
+    "b": "Section 36(6)(b) 1999 CFRN",
+    "c": "Section 36(6)(c) 1999 CFRN",
+    "d": "Section 36(6)(d) 1999 CFRN"
+   },
+   "answer": "Section 36(6)(c) 1999 CFRN",
+   "reason": "You can also use this section to back up the position of legal practitioners at the Area court i.e Right of Audience"
+  },
+  {
+   "id": "28",
+   "question": "In total, a remand order can be applied for_____times and each lasts for _____days under ACJA",
+   "options": {
+    "a": "4 times, 12 days",
+    "b": "4 times, 14 days",
+    "c": "3 times, 12 days",
+    "d": "3 times, 14 days"
+   },
+   "answer": "4 times, 14 days",
+   "reason": "Section 296 of ACJA. Application for Remand is by Motion ex-parte"
+  },
+  {
+   "id": "29",
+   "question": "Which of the following is not a factor the court will consider in granting or refusing to grant bail to an accused?",
+   "options": {
+    "a": "The economic condition of the accused.",
+    "b": "The gravity of the offence",
+    "c": "The likelihood that accused will tamper with investigation",
+    "d": "The likelihood that accused will commit another offence if granted bail"
+   },
+   "answer": "The economic condition of the accused.",
+   "reason": "In Bamaiyi v. The state, the court outlined some factors that might affect granting bail. This is different from conditions for bail."
+  },
+  {
+   "id": "30",
+   "question": "In Youngman v COP the conviction of the accused person was set aside because",
+   "options": {
+    "a": "The charge was defective",
+    "b": "The right to fair hearing was breached",
+    "c": "The accused had already served the punishment while awaiting trial",
+    "d": "A fresh plea was not taken after amendment of the charge"
+   },
+   "answer": "A fresh plea was not taken after amendment of the charge",
+   "reason": "The procedure after amendment of a charge are as follows: New charge will be read to the defendant; Defendant will plead to new charge; The court will enquire if the defendant is ready to be tried and if not, adjournment; The charge is endorsed"
+  },
+  {
+   "id": "31",
+   "question": " It is to ______ that all the prosecutorial powers in a State are subject to",
+   "options": {
+    "a": "The Chief Law Officer of the Nation",
+    "b": "The Chief Judge of the State",
+    "c": "The Judiciary",
+    "d": "The Commissioner for Justice"
+   },
+   "answer": "The Commissioner for Justice",
+   "reason": "The Attorney General of a State is the Commissioner for Justice of that State. Section 195 and 211 CFRN"
+  },
+  {
+   "id": "32",
+   "question": "The ICC is composed of how many judges?",
+   "options": {
+    "a": "15 Judges",
+    "b": "16 Judges",
+    "c": "17 Judges",
+    "d": "18 Judges"
+   },
+   "answer": "18 Judges",
+   "reason": "The International Criminal Court was established on the 1st July, 2002 and they have jurisdiction for the following offences: Genocide; Crime against humanity; War crimes; Crime of Aggression"
+  },
+  {
+   "id": "33",
+   "question": "The following offences can be tried at any time by the Court Martial except:",
+   "options": {
+    "a": "Mutiny",
+    "b": "Murder committed outside Nigeria",
+    "c": "Desertion",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "Sections 45 - 103 of the Armed Forces Act covers offences created by the Act while sections 104- 114 covers Civilian Offences"
+  },
+  {
+   "id": "34",
+   "question": "Customary Courts have original criminal jurisdiction in respect of the following offences except",
+   "options": {
+    "a": "Cases of violations of bye-laws",
+    "b": "Offences for which jurisdiction is expressly conferred on them by law",
+    "c": "Contempt ex facie curiae",
+    "d": "None of the above"
+   },
+   "answer": "Contempt ex facie curiae",
+   "reason": "The jurisdiction of Customary Court includes contempt committed in facie curiae and not one committed ex facie curiae. Section 19 of the Customary Courts Law of Oyo State. See also Part II, Schedule to the FCT Customary Court Act, 2007."
+  },
+  {
+   "id": "35",
+   "question": "In Lagos, a confessional statement made orally is:",
+   "options": {
+    "a": "Inadmissible",
+    "b": "Partially admissible",
+    "c": "Admissible, but less weight is attached to it",
+    "d": "At the discretion of the trial judge"
+   },
+   "answer": "Inadmissible",
+   "reason": "Oral confession is inadmissible in Lagos. Section 9(3) ACJL Lagos."
+  },
+  {
+   "id": "36",
+   "question": "If officers recovered items including weapons of burglary not covered in a search warrant that was issued. What is the status of the weapons recovered in evidence?",
+   "options": {
+    "a": "Generally admissible if relevant",
+    "b": "Generally inadmissible",
+    "c": "Generally admissible whether relevant or not",
+    "d": "None of the above"
+   },
+   "answer": "Generally admissible if relevant",
+   "reason": "Items not covered in a search warrant recovered in the course of a search are generally admissible provided they are relevant. Section 14 and 15 of the Evidence Act, Musa Sadau v State"
+  },
+  {
+   "id": "37",
+   "question": "None but one is a court of special criminal jurisdiction",
+   "options": {
+    "a": "High Court",
+    "b": "Magistrates Court",
+    "c": "National Industrial Court",
+    "d": "Customary Court"
+   },
+   "answer": "National Industrial Court",
+   "reason": "section 254C(5) CFRN confers criminal Jurisdiction on the National Industrial Court"
+  },
+  {
+   "id": "38",
+   "question": "Which of the following courts has no criminal Jurisdiction",
+   "options": {
+    "a": "National Industrial court",
+    "b": "Customary court",
+    "c": "Customary court of Appeal",
+    "d": "Court of Appeal"
+   },
+   "answer": "Customary court of Appeal",
+   "reason": "The customary court of Appeal has no criminal Jurisdiction so appeals from customary courts go to the Magistrates"
+  },
+  {
+   "id": "39",
+   "question": "One of the following is a purpose of raising no case submission",
+   "options": {
+    "a": "To save the time of the court",
+    "b": "To save cost",
+    "c": "A and B",
+    "d": "None of the above"
+   },
+   "answer": "A and B",
+   "reason": "No case submission attacks the evidence adduced by the prosecution"
+  },
+  {
+   "id": "40",
+   "question": "One of the following is not a circumstance where the court may grant bail in capital offence ",
+   "options": {
+    "a": "Extra-ordinary delay in investigation, arrainment and prosecution",
+    "b": "Ill health of the defendant and such has been confirmed by a Govt hospital and the prison lacks facility to handle it",
+    "c": "Other exceptional circumstances",
+    "d": "None of the above"
+   },
+   "answer": "None of the above",
+   "reason": "Section 161(2) ACJA provide for circumstances where the High court may grant bail in capital offences (only high court can do this)"
   }
   ]}

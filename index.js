@@ -122,6 +122,7 @@ function ListOfCourses (course,name){
     radioBtns.forEach(radioBtn=> radioBtn.disabled = false)
     radioBtns.forEach(radioBtn=> radioBtn.checked = false)
     getQuestions(database, quizIndex)
+   showMessage(`${name} has ${database.length} questions, goodluck!`)
     }
     else{
       showMessage('check back later');
@@ -297,12 +298,12 @@ function stopWatch(minutes){
 
 function checkIndex (index){
   if (index === 0){
-    stopWatch(20)
+    stopWatch(25)
   }
   else if(index === 1){
-    stopWatch(15)
+    stopWatch(20)
   }
   else if (index === 2){
-    stopWatch(12)
+    stopWatch(15)
   }
 }
